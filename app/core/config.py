@@ -1,7 +1,8 @@
 import os
 from pathlib import Path
-from typing import Optional
+from typing import Optional, List, Union
 from pydantic_settings import BaseSettings
+from pydantic import field_validator
 from functools import lru_cache
 
 # Get the project root directory
@@ -23,11 +24,21 @@ class Settings(BaseSettings):
     DEBUG: bool = True
     RELOAD: bool = True
     
-    # CORS Settings
-    CORS_ORIGINS: list = [
-        "http://localhost:3000",
-        "http://127.0.0.1:3000",
-    ]
+    # CORS Settings - Can accept both string (from .env) or list (from code)
+    CORS_ORIGINS: Union[str, List[str]] = "http://localhost:3000,http://127.0.0.1:3000"
+    
+    @field_validator('CORS_ORIGINS', mode='before')
+    @classmethod
+    def parse_cors_origins(cls, v):
+        """Parse CORS_ORIGINS from comma-separated string to list"""
+        if isinstance(v, str):
+            # Split by comma and strip whitespace from each origin
+            origins = [origin.strip() for origin in v.split(',') if origin.strip()]
+            return origins
+        elif isinstance(v, list):
+            # If already a list, return as is
+            return v
+        return []
     
     # Database Settings (PostgreSQL)
     DATABASE_URL: Optional[str] = None
@@ -37,10 +48,22 @@ class Settings(BaseSettings):
     DB_USER: str = "postgres"
     DB_PASSWORD: str = "postgres"
     
-    # Excel File Paths
-    EXCEL_FILE_1: Path = DATA_DIR / "prod_source_scores_normalized_ranked.xlsx"
-    EXCEL_FILE_2: Path = DATA_DIR / "Book1.xlsx"
-    EXCEL_FILE_3: Optional[Path] = None
+    # Excel File Names
+    EXCEL_FILE_1_NAME: str = "prod_source_scores_normalized_ranked.xlsx"
+    EXCEL_FILE_2_NAME: str = "Book1.xlsx"
+    
+    # Excel File Paths (constructed from names)
+    @property
+    def EXCEL_FILE_1(self) -> Path:
+        return DATA_DIR / self.EXCEL_FILE_1_NAME
+    
+    @property
+    def EXCEL_FILE_2(self) -> Path:
+        return DATA_DIR / self.EXCEL_FILE_2_NAME
+    
+    @property
+    def EXCEL_FILE_3(self) -> Optional[Path]:
+        return None
     
     # Logging Settings
     LOG_LEVEL: str = "INFO"
@@ -48,6 +71,7 @@ class Settings(BaseSettings):
     
     class Config:
         env_file = ".env"
+        env_file_encoding = 'utf-8'
         case_sensitive = True
 
 
