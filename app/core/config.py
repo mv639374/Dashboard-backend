@@ -51,6 +51,7 @@ class Settings(BaseSettings):
     # Excel File Names
     EXCEL_FILE_1_NAME: str = "prod_source_scores_normalized_ranked.xlsx"
     EXCEL_FILE_2_NAME: str = "Book1.xlsx"
+    EXCEL_FILE_3_NAME: str = "products_without_amazon_with_citations.xlsx"  # Fixed double extension
     
     # Excel File Paths (constructed from names)
     @property
@@ -62,8 +63,8 @@ class Settings(BaseSettings):
         return DATA_DIR / self.EXCEL_FILE_2_NAME
     
     @property
-    def EXCEL_FILE_3(self) -> Optional[Path]:
-        return None
+    def EXCEL_FILE_3(self) -> Path:
+        return DATA_DIR / self.EXCEL_FILE_3_NAME
     
     # Logging Settings
     LOG_LEVEL: str = "INFO"
