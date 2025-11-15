@@ -8,6 +8,7 @@ from app.core.config import settings
 from app.core.logger import setup_logger, log_app_startup, log_app_shutdown
 from app.routers.analytics_router import router as analytics_router
 from app.routers.insights_router import router as insights_router
+from app.routers.additional_router import router as additional_router
 
 # Setup logger
 logger = setup_logger(__name__)
@@ -43,6 +44,7 @@ app.add_middleware(
 # Include routers
 app.include_router(analytics_router, prefix="/analytics", tags=["Analytics"])
 app.include_router(insights_router, prefix="/insights", tags=["Insights"])
+app.include_router(additional_router, prefix="/additional", tags=["Additional Analytics"])
 
 
 @app.get("/")
@@ -58,6 +60,7 @@ async def root():
             "endpoints": {
                 "analytics": "/analytics",
                 "insights": "/insights",
+                "additional": "/additional",
                 "health": "/health",
                 "documentation": "/docs"
             }
