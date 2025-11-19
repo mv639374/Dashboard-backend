@@ -1,0 +1,1592 @@
+Product,source_normalized,score_sum,score_norm,rank
+Accessories,amazon,1160,0.192851205,1
+Accessories,Flipkart,645,0.10723192,2
+Accessories,Croma,570,0.094763092,3
+Accessories,bigbasket.com,295,0.049044057,4
+Accessories,portronics.com,280,0.046550291,5
+Accessories,Tata Neu,275,0.045719036,6
+Accessories,Zepto,200,0.033250208,7
+Accessories,bol.com,195,0.032418953,8
+Accessories,Reliance Digital,190,0.031587697,9
+Accessories,ASUS eshop,100,0.016625104,10
+Accessories,Blinkit,100,0.016625104,11
+Accessories,Deltron,100,0.016625104,12
+Accessories,Deporvillage.nl,100,0.016625104,13
+Accessories,Ekosport NL,100,0.016625104,14
+Accessories,JioMart Marketplace,100,0.016625104,15
+Accessories,Lifeventure EU,100,0.016625104,16
+Accessories,Meesho,100,0.016625104,17
+Accessories,Mukama,100,0.016625104,18
+Accessories,Twin Sport,100,0.016625104,19
+Accessories,Amilco Benelux B.V.,95,0.015793849,20
+Accessories,Amkette,95,0.015793849,21
+Accessories,Bellroy,95,0.015793849,22
+Accessories,Bike - Discount NL,95,0.015793849,23
+Accessories,Expert Swaak | Leiden,95,0.015793849,24
+Accessories,Reddit,95,0.015793849,25
+Accessories,flipkart,95,0.015793849,26
+Accessories,53 Degrees North,90,0.014962594,27
+Accessories,Dutchtravelshop,90,0.014962594,28
+Accessories,ExclusivePen.eu,90,0.014962594,29
+Accessories,Lucas Divestore,90,0.014962594,30
+Accessories,Sport Conrad,90,0.014962594,31
+Accessories,Sportano.com,90,0.014962594,32
+Air Purifier Filters,Flipkart,670,0.148888889,1
+Air Purifier Filters,amazon,590,0.131111111,2
+Air Purifier Filters,Croma,580,0.128888889,3
+Air Purifier Filters,Mi.com,470,0.104444444,4
+Air Purifier Filters,Ahuja Sons Khan Market,290,0.064444444,5
+Air Purifier Filters,Philips Domestic Appliances,200,0.044444444,6
+Air Purifier Filters,Smart Air,200,0.044444444,7
+Air Purifier Filters,Scoffco,190,0.042222222,8
+Air Purifier Filters,Tata Neu,190,0.042222222,9
+Air Purifier Filters,Fliptwirls.com,180,0.04,10
+Air Purifier Filters,Mahajan Electronics,180,0.04,11
+Air Purifier Filters,Blinkit,100,0.022222222,12
+Air Purifier Filters,Honeywell Connection,100,0.022222222,13
+Air Purifier Filters,Microless.com,95,0.021111111,14
+Air Purifier Filters,Reliance Digital,95,0.021111111,15
+Air Purifier Filters,desertcart.in,95,0.021111111,16
+Air Purifier Filters,imastudent.com,95,0.021111111,17
+Air Purifier Filters,JioMart Marketplace,90,0.02,18
+Air Purifier Filters,Zepto,90,0.02,19
+Air purifier,amazon,1335,0.175311884,1
+Air purifier,Flipkart,1215,0.159553513,2
+Air purifier,Reliance Digital,1040,0.136572554,3
+Air purifier,Croma,670,0.087984242,4
+Air purifier,Philips Domestic Appliances,400,0.052527905,5
+Air purifier,Dyson India,390,0.051214708,6
+Air purifier,Zepto,290,0.038082731,7
+Air purifier,Blinkit,280,0.036769534,8
+Air purifier,Scoffco,280,0.036769534,9
+Air purifier,Tradeindia.com,275,0.036112935,10
+Air purifier,Vijay Sales,195,0.025607354,11
+Air purifier,Fliptwirls.com,185,0.024294156,12
+Air purifier,Tata Neu,185,0.024294156,13
+Air purifier,1mg,100,0.013131976,14
+Air purifier,FirstCry India,100,0.013131976,15
+Air purifier,Havells,100,0.013131976,16
+Air purifier,JioMart Electronics,100,0.013131976,17
+Air purifier,Offprice,100,0.013131976,18
+Air purifier,Honeywell Connection,95,0.012475378,19
+Air purifier,Mahajan Electronics,95,0.012475378,20
+Air purifier,Mi.com,95,0.012475378,21
+Air purifier,Meesho,90,0.011818779,22
+Batteries,amazon,285,0.123376623,1
+Batteries,JioMart Grocery,200,0.086580087,2
+Batteries,Online,200,0.086580087,3
+Batteries,The Camera Shop,200,0.086580087,4
+Batteries,Flipkart,195,0.084415584,5
+Batteries,Hamleys,190,0.082251082,6
+Batteries,Tata CLiQ - Fashion,190,0.082251082,7
+Batteries,IndustryBuying,180,0.077922078,8
+Batteries,Careway Technologies,100,0.043290043,9
+Batteries,FirstCry India,100,0.043290043,10
+Batteries,Quartz Components,100,0.043290043,11
+Batteries,Harish Projects,95,0.041125541,12
+Batteries,Scoffco,95,0.041125541,13
+Batteries,Blinkit,90,0.038961039,14
+Batteries,amiciKart,90,0.038961039,15
+Blenders,amazon,870,0.142040816,1
+Blenders,ubuy,765,0.124897959,2
+Blenders,Flipkart,555,0.090612245,3
+Blenders,Croma,370,0.060408163,4
+Blenders,bigbasket.com,280,0.045714286,5
+Blenders,Aajjo.com,200,0.032653061,6
+Blenders,Hyperpure,200,0.032653061,7
+Blenders,KitchenAid,200,0.032653061,8
+Blenders,Myntra,195,0.031836735,9
+Blenders,Tradeindia.com,195,0.031836735,10
+Blenders,Mahajan Electronics,190,0.031020408,11
+Blenders,Reliance Digital,190,0.031020408,12
+Blenders,Zepto,180,0.029387755,13
+Blenders,desertcart.in,180,0.029387755,14
+Blenders,IBO,100,0.016326531,15
+Blenders,InstaCuppa,100,0.016326531,16
+Blenders,Meesho,100,0.016326531,17
+Blenders,Philips Domestic Appliances,100,0.016326531,18
+Blenders,Spare Part Wala,100,0.016326531,19
+Blenders,Vijay Sales,100,0.016326531,20
+Blenders,iBhejo.com,100,0.016326531,21
+Blenders,myborosil,100,0.016326531,22
+Blenders,wonderchef.com,100,0.016326531,23
+Blenders,Infinia Home and Kitchen,95,0.015510204,24
+Blenders,Instamart,95,0.015510204,25
+Blenders,Neverowned India,95,0.015510204,26
+Blenders,Toolsvilla,95,0.015510204,27
+Blenders,mechtrace.com,95,0.015510204,28
+Blenders,Fliptwirls.com,90,0.014693878,29
+Blenders,RasoiShop,90,0.014693878,30
+Bread Machine,ubuy,2440,0.354651163,1
+Bread Machine,amazon,800,0.11627907,2
+Bread Machine,desertcart.in,660,0.095930233,3
+Bread Machine,Flipkart,590,0.085755814,4
+Bread Machine,Mahajan Electronics,380,0.055232558,5
+Bread Machine,IndustryBuying,360,0.052325581,6
+Bread Machine,Instamart,300,0.043604651,7
+Bread Machine,Online,300,0.043604651,8
+Bread Machine,McGrocer,290,0.042151163,9
+Bread Machine,Microless.com,190,0.027616279,10
+Bread Machine,Moglix,190,0.027616279,11
+Bread Machine,Boutique Retailer,100,0.014534884,12
+Bread Machine,GlenIndia,100,0.014534884,13
+Bread Machine,Pepperfry,90,0.013081395,14
+Bread Machine,TieDex,90,0.013081395,15
+Can Openers,ubuy,845,0.160189573,1
+Can Openers,iBhejo.com,775,0.146919431,2
+Can Openers,amazon,690,0.130805687,3
+Can Openers,Flipkart,495,0.093838863,4
+Can Openers,desertcart.in,375,0.071090047,5
+Can Openers,Nykaa Fashion,200,0.037914692,6
+Can Openers,MOHD,195,0.036966825,7
+Can Openers,amiciKart,190,0.036018957,8
+Can Openers,AltVibes Global Partners,185,0.03507109,9
+Can Openers,JioMart Marketplace,180,0.034123223,10
+Can Openers,Finnish Design Shop,100,0.018957346,11
+Can Openers,Hospitality Town,100,0.018957346,12
+Can Openers,Meesho,100,0.018957346,13
+Can Openers,RS India,100,0.018957346,14
+Can Openers,Zepto,100,0.018957346,15
+Can Openers,AJIO.com,95,0.018009479,16
+Can Openers,Digital Shoppy,95,0.018009479,17
+Can Openers,thinKitchen,95,0.018009479,18
+Can Openers,GetUSCart,90,0.017061611,19
+Can Openers,Gute Reise,90,0.017061611,20
+Can Openers,Instamart,90,0.017061611,21
+Can Openers,cart2india,90,0.017061611,22
+Cannister Vacuums,amazon,1070,0.138242894,1
+Cannister Vacuums,Croma,1050,0.135658915,2
+Cannister Vacuums,Flipkart,1020,0.131782946,3
+Cannister Vacuums,ubuy,895,0.115633075,4
+Cannister Vacuums,desertcart.in,485,0.062661499,5
+Cannister Vacuums,Vijay Sales,450,0.058139535,6
+Cannister Vacuums,Philips Domestic Appliances,295,0.038113695,7
+Cannister Vacuums,Dyson India,200,0.025839793,8
+Cannister Vacuums,Zepto,200,0.025839793,9
+Cannister Vacuums,Neverowned India,190,0.024547804,10
+Cannister Vacuums,TTK PrestigeLimited,190,0.024547804,11
+Cannister Vacuums,apnidukaan.com,190,0.024547804,12
+Cannister Vacuums,Ankur Electricals,185,0.023901809,13
+Cannister Vacuums,EMI Snapmint,185,0.023901809,14
+Cannister Vacuums,Tata Neu,185,0.023901809,15
+Cannister Vacuums,Reliance Digital,180,0.023255814,16
+Cannister Vacuums,Aajjo.com,100,0.012919897,17
+Cannister Vacuums,Eureka Forbes,100,0.012919897,18
+Cannister Vacuums,Microless.com,100,0.012919897,19
+Cannister Vacuums,Myntra,100,0.012919897,20
+Cannister Vacuums,TieDex,95,0.012273902,21
+Cannister Vacuums,Tradeindia.com,95,0.012273902,22
+Cannister Vacuums,designerappliances,95,0.012273902,23
+Cannister Vacuums,bigbasket.com,85,0.010981912,24
+Carpet and Upholstery Cleaners,amazon,1480,0.299898683,1
+Carpet and Upholstery Cleaners,Flipkart,780,0.158054711,2
+Carpet and Upholstery Cleaners,ubuy,570,0.11550152,3
+Carpet and Upholstery Cleaners,Wavex,380,0.077001013,4
+Carpet and Upholstery Cleaners,Zepto,290,0.058763931,5
+Carpet and Upholstery Cleaners,Brit Super Store,280,0.056737589,6
+Carpet and Upholstery Cleaners,PG Service,195,0.039513678,7
+Carpet and Upholstery Cleaners,GreenZ Car Care,100,0.020263425,8
+Carpet and Upholstery Cleaners,Kolan,100,0.020263425,9
+Carpet and Upholstery Cleaners,all4pets,100,0.020263425,10
+Carpet and Upholstery Cleaners,bigbasket.com,100,0.020263425,11
+Carpet and Upholstery Cleaners,getepik.in,100,0.020263425,12
+Carpet and Upholstery Cleaners,JioMart Marketplace,95,0.019250253,13
+Carpet and Upholstery Cleaners,Zigly,95,0.019250253,14
+Carpet and Upholstery Cleaners,cart2india,90,0.018237082,15
+Carpet and Upholstery Cleaners,desertcart.in,90,0.018237082,16
+Carpet and Upholstery Cleaners,iBhejo.com,90,0.018237082,17
+Coffee Machine,amazon,1100,0.127020785,1
+Coffee Machine,ubuy,875,0.101039261,2
+Coffee Machine,Croma,845,0.097575058,3
+Coffee Machine,Latteholic,580,0.066974596,4
+Coffee Machine,Flipkart,575,0.066397229,5
+Coffee Machine,Instamart,480,0.055427252,6
+Coffee Machine,Tata Neu,375,0.04330254,7
+Coffee Machine,Something's Brewing,300,0.034642032,8
+Coffee Machine,Kitchen Brand Store,295,0.034064665,9
+Coffee Machine,Global Gadgets Authorized,290,0.033487298,10
+Coffee Machine,wonderchef.com,290,0.033487298,11
+Coffee Machine,desertcart.in,285,0.032909931,12
+Coffee Machine,Zepto,280,0.032332564,13
+Coffee Machine,Unspoken Secrets,270,0.031177829,14
+Coffee Machine,Ankur Electricals,190,0.021939954,15
+Coffee Machine,Philips Domestic Appliances,190,0.021939954,16
+Coffee Machine,Tata CLiQ - Fashion,190,0.021939954,17
+Coffee Machine,Microless.com,185,0.021362587,18
+Coffee Machine,Kilta Coffee,180,0.020785219,19
+Coffee Machine,Kitchenmart.co.in,100,0.011547344,20
+Coffee Machine,Korebi Coffee,100,0.011547344,21
+Coffee Machine,RS India,100,0.011547344,22
+Coffee Machine,Tradeindia.com,100,0.011547344,23
+Coffee Machine,Vijay Sales,100,0.011547344,24
+Coffee Machine,bigbasket.com,100,0.011547344,25
+Coffee Machine,Mahajan Electronics,95,0.010969977,26
+Coffee Machine,Shoppers Stop,95,0.010969977,27
+Coffee Machine,Westend Coffee Company,95,0.010969977,28
+Contact Grills,amazon,1140,0.123376623,1
+Contact Grills,Flipkart,760,0.082251082,2
+Contact Grills,Vijay Sales,695,0.07521645,3
+Contact Grills,Neverowned India,600,0.064935065,4
+Contact Grills,Moglix,570,0.061688312,5
+Contact Grills,Instamart,560,0.060606061,6
+Contact Grills,Mystore,540,0.058441558,7
+Contact Grills,ubuy,495,0.053571429,8
+Contact Grills,bigbasket.com,460,0.04978355,9
+Contact Grills,Reliance Digital,375,0.040584416,10
+Contact Grills,Croma,300,0.032467532,11
+Contact Grills,Microless.com,300,0.032467532,12
+Contact Grills,Havells,285,0.030844156,13
+Contact Grills,desertcart.in,285,0.030844156,14
+Contact Grills,wonderchef.com,285,0.030844156,15
+Contact Grills,Ankur Electricals,270,0.029220779,16
+Contact Grills,Tata Neu,270,0.029220779,17
+Contact Grills,cayroshop.com,270,0.029220779,18
+Contact Grills,GlenIndia,200,0.021645022,19
+Contact Grills,McGrocer,190,0.020562771,20
+Contact Grills,TTK PrestigeLimited,190,0.020562771,21
+Contact Grills,Myntra,100,0.010822511,22
+Contact Grills,Philips Domestic Appliances,100,0.010822511,23
+Convection Ovens,Croma,1190,0.182795699,1
+Convection Ovens,Decure.in,845,0.129800307,2
+Convection Ovens,amazon,800,0.122887865,3
+Convection Ovens,Flipkart,585,0.089861751,4
+Convection Ovens,apnidukaan.com,455,0.069892473,5
+Convection Ovens,Tata Neu,375,0.057603687,6
+Convection Ovens,Neverowned India,290,0.044546851,7
+Convection Ovens,Gadgets Now,190,0.029185868,8
+Convection Ovens,Aajjo.com,100,0.015360983,9
+Convection Ovens,Faber India,100,0.015360983,10
+Convection Ovens,JioMart Marketplace,100,0.015360983,11
+Convection Ovens,Meesho,100,0.015360983,12
+Convection Ovens,Ankur Electricals,95,0.014592934,13
+Convection Ovens,Jantacart,95,0.014592934,14
+Convection Ovens,Moglix,95,0.014592934,15
+Convection Ovens,Reliance Digital,95,0.014592934,16
+Convection Ovens,Samsung.com,95,0.014592934,17
+Convection Ovens,desertcart.in,95,0.014592934,18
+Convection Ovens,iBhejo.com,95,0.014592934,19
+Convection Ovens,EMI Snapmint,90,0.013824885,20
+Convection Ovens,IndustryBuying,90,0.013824885,21
+Convection Ovens,McCoy Mart,90,0.013824885,22
+Convection Ovens,Tradeindia.com,90,0.013824885,23
+Convection Ovens,Vijay Sales,90,0.013824885,24
+Convection Ovens,Vvalyou,90,0.013824885,25
+Convection Ovens,cart2india,90,0.013824885,26
+Convection Ovens,Reddit,85,0.013056836,27
+Cooktops -  less than 4 burners. (Electric),Croma,1725,0.178294574,1
+Cooktops -  less than 4 burners. (Electric),Flipkart,1240,0.128165375,2
+Cooktops -  less than 4 burners. (Electric),Tata Neu,1010,0.104392765,3
+Cooktops -  less than 4 burners. (Electric),amazon,995,0.102842377,4
+Cooktops -  less than 4 burners. (Electric),Vijay Sales,690,0.071317829,5
+Cooktops -  less than 4 burners. (Electric),JioMart Electronics,390,0.040310078,6
+Cooktops -  less than 4 burners. (Electric),Philips Domestic Appliances,385,0.039793282,7
+Cooktops -  less than 4 burners. (Electric),Reliance Digital,375,0.03875969,8
+Cooktops -  less than 4 burners. (Electric),TTK PrestigeLimited,300,0.031007752,9
+Cooktops -  less than 4 burners. (Electric),Neverowned India,295,0.030490956,10
+Cooktops -  less than 4 burners. (Electric),Decure.in,290,0.02997416,11
+Cooktops -  less than 4 burners. (Electric),bigbasket.com,290,0.02997416,12
+Cooktops -  less than 4 burners. (Electric),Havells,285,0.029457364,13
+Cooktops -  less than 4 burners. (Electric),Myntra,190,0.019638243,14
+Cooktops -  less than 4 burners. (Electric),Tradeindia.com,190,0.019638243,15
+Cooktops -  less than 4 burners. (Electric),apnidukaan.com,190,0.019638243,16
+Cooktops -  less than 4 burners. (Electric),Dynamic Distributors,185,0.019121447,17
+Cooktops -  less than 4 burners. (Electric),ubuy,100,0.010335917,18
+Cooktops -  less than 4 burners. (Electric),Ankur Electricals,95,0.009819121,19
+Cooktops -  less than 4 burners. (Electric),Mahajan Electronics,95,0.009819121,20
+Cooktops -  less than 4 burners. (Electric),Aalap Electronics,90,0.009302326,21
+Cooktops -  less than 4 burners. (Electric),Global Kitchen appliances,90,0.009302326,22
+Cooktops -  less than 4 burners. (Electric),Kitchen Brand Store,90,0.009302326,23
+Cooktops -  less than 4 burners. (Electric),Zepto,90,0.009302326,24
+Cooktops More Than 4 Burner (Electric),Croma,1730,0.175991862,1
+Cooktops More Than 4 Burner (Electric),Flipkart,1385,0.140895219,2
+Cooktops More Than 4 Burner (Electric),Tata Neu,1105,0.112410987,3
+Cooktops More Than 4 Burner (Electric),amazon,980,0.099694812,4
+Cooktops More Than 4 Burner (Electric),Vijay Sales,500,0.0508647,5
+Cooktops More Than 4 Burner (Electric),ubuy,500,0.0508647,6
+Cooktops More Than 4 Burner (Electric),Myntra,485,0.049338759,7
+Cooktops More Than 4 Burner (Electric),TTK PrestigeLimited,390,0.039674466,8
+Cooktops More Than 4 Burner (Electric),bigbasket.com,370,0.037639878,9
+Cooktops More Than 4 Burner (Electric),Neverowned India,295,0.030010173,10
+Cooktops More Than 4 Burner (Electric),Blinkit,200,0.02034588,11
+Cooktops More Than 4 Burner (Electric),Decure.in,200,0.02034588,12
+Cooktops More Than 4 Burner (Electric),Mahajan Electronics,190,0.019328586,13
+Cooktops More Than 4 Burner (Electric),Philips Domestic Appliances,190,0.019328586,14
+Cooktops More Than 4 Burner (Electric),Zepto,190,0.019328586,15
+Cooktops More Than 4 Burner (Electric),apnidukaan.com,185,0.018819939,16
+Cooktops More Than 4 Burner (Electric),Aalap Electronics,180,0.018311292,17
+Cooktops More Than 4 Burner (Electric),JioMart Electronics,100,0.01017294,18
+Cooktops More Than 4 Burner (Electric),EMI Snapmint,95,0.009664293,19
+Cooktops More Than 4 Burner (Electric),Global Kitchen appliances,95,0.009664293,20
+Cooktops More Than 4 Burner (Electric),Havells,95,0.009664293,21
+Cooktops More Than 4 Burner (Electric),OWEG,95,0.009664293,22
+Cooktops More Than 4 Burner (Electric),Reliance Digital,95,0.009664293,23
+Cooktops More Than 4 Burner (Electric),Kitchen Brand Store,90,0.009155646,24
+Cooktops More Than 4 Burner (Electric),Moglix,90,0.009155646,25
+Coolers,amazon,1570,0.185908822,1
+Coolers,Flipkart,1140,0.134991119,2
+Coolers,Croma,1135,0.134399053,3
+Coolers,ubuy,485,0.057430432,4
+Coolers,Meesho,400,0.047365305,5
+Coolers,Neverowned India,300,0.035523979,6
+Coolers,Voltas,290,0.034339846,7
+Coolers,Kenstar,285,0.03374778,8
+Coolers,Poorvika,285,0.03374778,9
+Coolers,Online,280,0.033155713,10
+Coolers,EMI Snapmint,270,0.031971581,11
+Coolers,AddMeCart,200,0.023682652,12
+Coolers,Orient Electric,200,0.023682652,13
+Coolers,Ankur Electricals,190,0.02249852,14
+Coolers,BlackTree,180,0.021314387,15
+Coolers,Aajjo.com,100,0.011841326,16
+Coolers,Havells,100,0.011841326,17
+Coolers,Instamart,100,0.011841326,18
+Coolers,iBhejo.com,100,0.011841326,19
+Coolers,Bajaj Electricals India,95,0.01124926,20
+Coolers,IndustryBuying,95,0.01124926,21
+Coolers,Mahajan Electronics,95,0.01124926,22
+Coolers,Moglix,95,0.01124926,23
+Coolers,Reliance Digital,95,0.01124926,24
+Coolers,Dynamic Distributors,90,0.010657194,25
+Coolers,Ebexmart,90,0.010657194,26
+Coolers,Tata Neu,90,0.010657194,27
+Coolers,Tradeindia.com,90,0.010657194,28
+Deep Fryers,amazon,1485,0.221973094,1
+Deep Fryers,ubuy,1170,0.174887892,2
+Deep Fryers,Flipkart,875,0.130792227,3
+Deep Fryers,Kitchenmart.co.in,380,0.056801196,4
+Deep Fryers,Aajjo.com,300,0.044843049,5
+Deep Fryers,Blendart.in,285,0.042600897,6
+Deep Fryers,desertcart.in,280,0.041853513,7
+Deep Fryers,Moglix,270,0.040358744,8
+Deep Fryers,Hyperpure,200,0.029895366,9
+Deep Fryers,IndiaMART,190,0.028400598,10
+Deep Fryers,Toolsvilla,190,0.028400598,11
+Deep Fryers,JioMart Marketplace,185,0.027653214,12
+Deep Fryers,GlenIndia,100,0.014947683,13
+Deep Fryers,Hospitality Town,100,0.014947683,14
+Deep Fryers,Kitchway,100,0.014947683,15
+Deep Fryers,McGrocer,100,0.014947683,16
+Deep Fryers,Zepto,100,0.014947683,17
+Deep Fryers,AddMeCart,95,0.014200299,18
+Deep Fryers,Bookscape,95,0.014200299,19
+Deep Fryers,TieDex,95,0.014200299,20
+Deep Fryers,Tradeindia.com,95,0.014200299,21
+Dehumidifiers,amazon,1165,0.345697329,1
+Dehumidifiers,Flipkart,365,0.108308605,2
+Dehumidifiers,Vijay Sales,300,0.089020772,3
+Dehumidifiers,ubuy,300,0.089020772,4
+Dehumidifiers,Croma,295,0.087537092,5
+Dehumidifiers,Mahajan Electronics,285,0.084569733,6
+Dehumidifiers,Tata Neu,185,0.054896142,7
+Dehumidifiers,Air Expert India,100,0.029673591,8
+Dehumidifiers,Made-in-China.com,100,0.029673591,9
+Dehumidifiers,Reliance Digital,95,0.028189911,10
+Dehumidifiers,1mg,90,0.026706231,11
+Dehumidifiers,JioMart Marketplace,90,0.026706231,12
+Electric Brooms,amazon,770,0.212413793,1
+Electric Brooms,Croma,555,0.153103448,2
+Electric Brooms,Flipkart,480,0.132413793,3
+Electric Brooms,Tata Neu,360,0.099310345,4
+Electric Brooms,Vijay Sales,285,0.07862069,5
+Electric Brooms,Aajjo.com,200,0.055172414,6
+Electric Brooms,ubuy,200,0.055172414,7
+Electric Brooms,Meesho,100,0.027586207,8
+Electric Brooms,Microless.com,100,0.027586207,9
+Electric Brooms,Neverowned India,100,0.027586207,10
+Electric Brooms,XECH,100,0.027586207,11
+Electric Brooms,Gadgets Now,95,0.026206897,12
+Electric Brooms,Instamart,95,0.026206897,13
+Electric Brooms,Reliance Digital,95,0.026206897,14
+Electric Brooms,getepik.in,90,0.024827586,15
+Electric Cookware,amazon,1170,0.263513514,1
+Electric Cookware,ubuy,690,0.155405405,2
+Electric Cookware,Flipkart,670,0.150900901,3
+Electric Cookware,Blinkit,375,0.084459459,4
+Electric Cookware,Zepto,300,0.067567568,5
+Electric Cookware,Instamart,200,0.045045045,6
+Electric Cookware,Mahajan Electronics,190,0.042792793,7
+Electric Cookware,Reliance Digital,190,0.042792793,8
+Electric Cookware,Bmmetalmart,180,0.040540541,9
+Electric Cookware,bigbasket.com,100,0.022522523,10
+Electric Cookware,Ankur Electricals,95,0.021396396,11
+Electric Cookware,Croma,95,0.021396396,12
+Electric Cookware,Philips Domestic Appliances,95,0.021396396,13
+Electric Cookware,Neverowned India,90,0.02027027,14
+"Electric Knives, Slicers, Sharpeners",ubuy,1665,0.314744802,1
+"Electric Knives, Slicers, Sharpeners",iBhejo.com,590,0.111531191,2
+"Electric Knives, Slicers, Sharpeners",amazon,495,0.093572779,3
+"Electric Knives, Slicers, Sharpeners",McGrocer,490,0.092627599,4
+"Electric Knives, Slicers, Sharpeners",GetUSCart,485,0.09168242,5
+"Electric Knives, Slicers, Sharpeners",Flipkart,390,0.073724008,6
+"Electric Knives, Slicers, Sharpeners",Mr. Butler,200,0.037807183,7
+"Electric Knives, Slicers, Sharpeners",Night Galaxy,200,0.037807183,8
+"Electric Knives, Slicers, Sharpeners",Microless.com,100,0.018903592,9
+"Electric Knives, Slicers, Sharpeners",Yantratools,100,0.018903592,10
+"Electric Knives, Slicers, Sharpeners",element14 India,100,0.018903592,11
+"Electric Knives, Slicers, Sharpeners",hocho-knife.com,100,0.018903592,12
+"Electric Knives, Slicers, Sharpeners",Tanotis India,95,0.017958412,13
+"Electric Knives, Slicers, Sharpeners",cart2india,95,0.017958412,14
+"Electric Knives, Slicers, Sharpeners",desertcart.in,95,0.017958412,15
+"Electric Knives, Slicers, Sharpeners",PriceHistory.app,90,0.017013233,16
+Electric Tea Pots and Water Boilers,amazon,1540,0.157948718,1
+Electric Tea Pots and Water Boilers,Flipkart,1405,0.144102564,2
+Electric Tea Pots and Water Boilers,Myntra,755,0.077435897,3
+Electric Tea Pots and Water Boilers,bigbasket.com,720,0.073846154,4
+Electric Tea Pots and Water Boilers,Reliance Digital,660,0.067692308,5
+Electric Tea Pots and Water Boilers,Zepto,585,0.06,6
+Electric Tea Pots and Water Boilers,TTK PrestigeLimited,385,0.039487179,7
+Electric Tea Pots and Water Boilers,DMart Ready,300,0.030769231,8
+Electric Tea Pots and Water Boilers,Milton.in,285,0.029230769,9
+Electric Tea Pots and Water Boilers,Online,285,0.029230769,10
+Electric Tea Pots and Water Boilers,Instamart,280,0.028717949,11
+Electric Tea Pots and Water Boilers,JioMart Marketplace,275,0.028205128,12
+Electric Tea Pots and Water Boilers,Blinkit,195,0.02,13
+Electric Tea Pots and Water Boilers,Meesho,195,0.02,14
+Electric Tea Pots and Water Boilers,Croma,190,0.019487179,15
+Electric Tea Pots and Water Boilers,Vijay Sales,160,0.016410256,16
+Electric Tea Pots and Water Boilers,MOHD,100,0.01025641,17
+Electric Tea Pots and Water Boilers,Philips Domestic Appliances,100,0.01025641,18
+Electric Tea Pots and Water Boilers,Tata Neu,100,0.01025641,19
+Electric Tea Pots and Water Boilers,desertcart.in,100,0.01025641,20
+Electric Tea Pots and Water Boilers,myborosil,100,0.01025641,21
+Electric Tea Pots and Water Boilers,ubuy,100,0.01025641,22
+Electric Tea Pots and Water Boilers,warmexhomeappliances.com,100,0.01025641,23
+Electric Tea Pots and Water Boilers,FirstCry India,95,0.00974359,24
+Electric Tea Pots and Water Boilers,Hawkins,95,0.00974359,25
+Electric Tea Pots and Water Boilers,Swiss Military India,95,0.00974359,26
+Electric Tea Pots and Water Boilers,iBhejo.com,95,0.00974359,27
+Electric Tea Pots and Water Boilers,portronics.com,95,0.00974359,28
+Electric Tea Pots and Water Boilers,友和 Yoho,95,0.00974359,29
+Electric Tea Pots and Water Boilers,Mystore,90,0.009230769,30
+Electric Tea Pots and Water Boilers,apnidukaan.com,90,0.009230769,31
+Electric Tea Pots and Water Boilers,Philips Official Site,85,0.008717949,32
+Embroidery Machines,Aajjo.com,1370,0.181216931,1
+Embroidery Machines,Bazar91.com,1135,0.150132275,2
+Embroidery Machines,Microless.com,765,0.101190476,3
+Embroidery Machines,desertcart.in,730,0.096560847,4
+Embroidery Machines,Alibaba.com,600,0.079365079,5
+Embroidery Machines,amazon,585,0.077380952,6
+Embroidery Machines,ubuy,585,0.077380952,7
+Embroidery Machines,Tradeindia.com,570,0.075396825,8
+Embroidery Machines,Singer India,480,0.063492063,9
+Embroidery Machines,Viswas Embroidery,455,0.060185185,10
+Embroidery Machines,Flipkart,100,0.013227513,11
+Embroidery Machines,IndiaMART,95,0.012566138,12
+Embroidery Machines,Swati Sewing Machine,90,0.011904762,13
+Espresso Machines,amazon,785,0.162694301,1
+Espresso Machines,Caffena Coffee,295,0.061139896,2
+Espresso Machines,Something's Brewing,290,0.060103627,3
+Espresso Machines,ubuy,285,0.059067358,4
+Espresso Machines,Tradeindia.com,280,0.058031088,5
+Espresso Machines,AddMeCart,200,0.041450777,6
+Espresso Machines,Kaapi Machines India,200,0.041450777,7
+Espresso Machines,Latteholic,200,0.041450777,8
+Espresso Machines,Flipkart,195,0.040414508,9
+Espresso Machines,bigbasket.com,195,0.040414508,10
+Espresso Machines,Espresso Coffee Shop - Spare Parts,190,0.039378238,11
+Espresso Machines,Unspoken Secrets,190,0.039378238,12
+Espresso Machines,Croma,185,0.038341969,13
+Espresso Machines,Brewing Gadgets India,100,0.020725389,14
+Espresso Machines,McGrocer,100,0.020725389,15
+Espresso Machines,Philips Domestic Appliances,100,0.020725389,16
+Espresso Machines,Roast Coffee,100,0.020725389,17
+Espresso Machines,Zepto,100,0.020725389,18
+Espresso Machines,wonderchef.com,100,0.020725389,19
+Espresso Machines,Ankur Electricals,95,0.019689119,20
+Espresso Machines,Microless.com,95,0.019689119,21
+Espresso Machines,bol.com,95,0.019689119,22
+Espresso Machines,Coffeesection,90,0.01865285,23
+Espresso Machines,Instamart,90,0.01865285,24
+Espresso Machines,Kitchen Brand Store,90,0.01865285,25
+Espresso Machines,Tata Neu,90,0.01865285,26
+Espresso Machines,coffee.plus,90,0.01865285,27
+Exhaust Fans,Flipkart,1490,0.195281782,1
+Exhaust Fans,amazon,1075,0.140891219,2
+Exhaust Fans,Croma,765,0.100262123,3
+Exhaust Fans,Zepto,585,0.076671035,4
+Exhaust Fans,Myntra,580,0.076015727,5
+Exhaust Fans,bigbasket.com,390,0.051114024,6
+Exhaust Fans,IBO,370,0.048492792,7
+Exhaust Fans,Vijay Sales,360,0.047182176,8
+Exhaust Fans,Instamart,300,0.03931848,9
+Exhaust Fans,ubuy,295,0.038663172,10
+Exhaust Fans,Raptor Supplies,290,0.038007864,11
+Exhaust Fans,Orient Electric,195,0.025557012,12
+Exhaust Fans,Atomberg,190,0.024901704,13
+Exhaust Fans,Online,180,0.023591088,14
+Exhaust Fans,Havells,100,0.01310616,15
+Exhaust Fans,JioMart Marketplace,100,0.01310616,16
+Exhaust Fans,Aajjo.com,95,0.012450852,17
+Exhaust Fans,Ankur Electricals,95,0.012450852,18
+Exhaust Fans,Cauvery Powers,90,0.011795544,19
+Exhaust Fans,Gauryog,85,0.011140236,20
+Fans,Flipkart,2060,0.214025974,1
+Fans,amazon,1640,0.17038961,2
+Fans,Croma,1365,0.141818182,3
+Fans,Orient Electric,790,0.082077922,4
+Fans,Myntra,545,0.056623377,5
+Fans,Ankur Electricals,475,0.049350649,6
+Fans,IBO,370,0.038441558,7
+Fans,Atomberg,300,0.031168831,8
+Fans,shop.kuhl.in,300,0.031168831,9
+Fans,BlackTree,280,0.029090909,10
+Fans,Tradeindia.com,280,0.029090909,11
+Fans,Havells,200,0.020779221,12
+Fans,Zepto,190,0.01974026,13
+Fans,Instamart,180,0.018701299,14
+Fans,Vijay Sales,180,0.018701299,15
+Fans,Robu.in,100,0.01038961,16
+Fans,Blinkit,95,0.00987013,17
+Fans,ElectroPi.in,95,0.00987013,18
+Fans,Gadgets Now,90,0.009350649,19
+Fans,Security Doctors,90,0.009350649,20
+Flat Grills,ubuy,1385,0.382068966,1
+Flat Grills,ald.kitchen,400,0.110344828,2
+Flat Grills,Flipkart,300,0.082758621,3
+Flat Grills,amazon,290,0.08,4
+Flat Grills,Toolsvilla,200,0.055172414,5
+Flat Grills,Moglix,175,0.048275862,6
+Flat Grills,Aajjo.com,100,0.027586207,7
+Flat Grills,Blendart.in,100,0.027586207,8
+Flat Grills,Grease Junkie by Edd China,100,0.027586207,9
+Flat Grills,prockured,100,0.027586207,10
+Flat Grills,trilonium,100,0.027586207,11
+Flat Grills,HorecaMate,95,0.026206897,12
+Flat Grills,desertcart.in,95,0.026206897,13
+Flat Grills,vinodcookware.com,95,0.026206897,14
+Flat Grills,hgspot.hr,90,0.024827586,15
+Floor Polishers,Moglix,700,0.129390018,1
+Floor Polishers,Aajjo.com,600,0.11090573,2
+Floor Polishers,TTK PrestigeLimited,600,0.11090573,3
+Floor Polishers,ubuy,595,0.109981516,4
+Floor Polishers,Gauryog,570,0.105360444,5
+Floor Polishers,Toolsvilla,400,0.073937153,6
+Floor Polishers,amazon,400,0.073937153,7
+Floor Polishers,Boels Verhuur,300,0.055452865,8
+Floor Polishers,Tradeindia.com,295,0.054528651,9
+Floor Polishers,IndiaMART,190,0.035120148,10
+Floor Polishers,desertcart.in,185,0.034195933,11
+Floor Polishers,Alibaba.com,100,0.018484288,12
+Floor Polishers,IndustryBuying,100,0.018484288,13
+Floor Polishers,Yantratools,100,0.018484288,14
+Floor Polishers,Blinkit,95,0.017560074,15
+Floor Polishers,DMart Ready,90,0.01663586,16
+Floor Polishers,Maharashtra Traders,90,0.01663586,17
+Floorcare,amazon,1850,0.207865169,1
+Floorcare,Flipkart,1055,0.118539326,2
+Floorcare,ubuy,785,0.088202247,3
+Floorcare,Croma,750,0.084269663,4
+Floorcare,Vijay Sales,460,0.051685393,5
+Floorcare,Reliance Digital,385,0.043258427,6
+Floorcare,Zepto,380,0.042696629,7
+Floorcare,bigbasket.com,380,0.042696629,8
+Floorcare,Dyson India,300,0.033707865,9
+Floorcare,Blinkit,290,0.03258427,10
+Floorcare,Instamart,290,0.03258427,11
+Floorcare,Nexlev,195,0.021910112,12
+Floorcare,Neverowned India,190,0.021348315,13
+Floorcare,Tata Neu,190,0.021348315,14
+Floorcare,Sangeetha Mobiles,185,0.020786517,15
+Floorcare,myG,180,0.020224719,16
+Floorcare,JioMart Electronics,100,0.011235955,17
+Floorcare,Meesho,100,0.011235955,18
+Floorcare,TTK PrestigeLimited,100,0.011235955,19
+Floorcare,Mahajan Electronics,95,0.010674157,20
+Floorcare,Wavex,95,0.010674157,21
+Floorcare,desertcart.in,95,0.010674157,22
+Floorcare,DMart Ready,90,0.01011236,23
+Floorcare,Gauryog,90,0.01011236,24
+Floorcare,JioMart Marketplace,90,0.01011236,25
+Floorcare,Myntra,90,0.01011236,26
+Floorcare,Unboxify,90,0.01011236,27
+Floorcare Other,amazon,1755,0.174020823,1
+Floorcare Other,Flipkart,1650,0.163609321,2
+Floorcare Other,Blinkit,390,0.038671294,3
+Floorcare Other,Zepto,390,0.038671294,4
+Floorcare Other,Sangeetha Mobiles,370,0.036688151,5
+Floorcare Other,Croma,365,0.036192365,6
+Floorcare Other,bigbasket.com,285,0.028259792,7
+Floorcare Other,JioMart Marketplace,275,0.02726822,8
+Floorcare Other,FirstCry India,270,0.026772434,9
+Floorcare Other,Aajjo.com,200,0.019831433,10
+Floorcare Other,Online,195,0.019335647,11
+Floorcare Other,Tradeindia.com,195,0.019335647,12
+Floorcare Other,Vijay Sales,195,0.019335647,13
+Floorcare Other,Mi.com,190,0.018839861,14
+Floorcare Other,Windmill baby,190,0.018839861,15
+Floorcare Other,Reliance Digital,185,0.018344075,16
+Floorcare Other,Tata Neu,185,0.018344075,17
+Floorcare Other,Chera Home Junction,180,0.01784829,18
+Floorcare Other,Microless.com,180,0.01784829,19
+Floorcare Other,duckduckbaby - Gurgaon,180,0.01784829,20
+Floorcare Other,9to5 Spaces,100,0.009915716,21
+Floorcare Other,Boels Verhuur,100,0.009915716,22
+Floorcare Other,DIY.com,100,0.009915716,23
+Floorcare Other,Dyson India,100,0.009915716,24
+Floorcare Other,Gauryog,100,0.009915716,25
+Floorcare Other,Neverowned India,100,0.009915716,26
+Floorcare Other,Scoffco,100,0.009915716,27
+Floorcare Other,Toolsvilla,100,0.009915716,28
+Floorcare Other,Born Good,95,0.009419931,29
+Floorcare Other,EMI Snapmint,95,0.009419931,30
+Floorcare Other,Milton.in,95,0.009419931,31
+Floorcare Other,Unboxify,95,0.009419931,32
+Floorcare Other,myG,95,0.009419931,33
+Floorcare Other,Alza.cz,90,0.008924145,34
+Floorcare Other,Bestomart.com,90,0.008924145,35
+Floorcare Other,DMart Ready,90,0.008924145,36
+Floorcare Other,Instamart,90,0.008924145,37
+Floorcare Other,JioMart Electronics,90,0.008924145,38
+Floorcare Other,Milkbasket Grocery App,90,0.008924145,39
+Floorcare Other,Poorvika,90,0.008924145,40
+Floorcare Other,Shopy Vision,90,0.008924145,41
+Floorcare Other,getepik.in,90,0.008924145,42
+Floorcare Other,misterworker.com,90,0.008924145,43
+Floorcare Other,JioMart Grocery,85,0.008428359,44
+Food Processors,Flipkart,965,0.133934768,1
+Food Processors,amazon,890,0.12352533,2
+Food Processors,Myntra,780,0.108258154,3
+Food Processors,Croma,745,0.103400416,4
+Food Processors,Zepto,640,0.088827203,5
+Food Processors,ubuy,500,0.069396253,6
+Food Processors,KitchenAid,485,0.067314365,7
+Food Processors,Bajaj Electricals India,375,0.052047189,8
+Food Processors,Fliptwirls.com,300,0.041637752,9
+Food Processors,Kitchenmart.co.in,290,0.040249827,10
+Food Processors,JioMart Electronics,200,0.027758501,11
+Food Processors,PG Service,200,0.027758501,12
+Food Processors,Nykaa Fashion,180,0.024982651,13
+Food Processors,Reliance Digital,180,0.024982651,14
+Food Processors,Microless.com,100,0.013879251,15
+Food Processors,Moglix,95,0.013185288,16
+Food Processors,Tradeindia.com,95,0.013185288,17
+Food Processors,desertcart.in,95,0.013185288,18
+Food Processors,iBhejo.com,90,0.012491325,19
+Food Steamers,amazon,1770,0.282521947,1
+Food Steamers,Flipkart,760,0.121308859,2
+Food Steamers,Meesho,600,0.095770152,3
+Food Steamers,ubuy,390,0.062250599,4
+Food Steamers,Mahajan Electronics,385,0.061452514,5
+Food Steamers,Online,285,0.045490822,6
+Food Steamers,BlackTree,270,0.043096568,7
+Food Steamers,EMI Snapmint,270,0.043096568,8
+Food Steamers,Instamart,200,0.031923384,9
+Food Steamers,Zepto,200,0.031923384,10
+Food Steamers,Croma,195,0.031125299,11
+Food Steamers,Home Centre,180,0.028731045,12
+Food Steamers,Tata Neu,180,0.028731045,13
+Food Steamers,Aajjo.com,100,0.015961692,14
+Food Steamers,cart2india,100,0.015961692,15
+Food Steamers,Digital Shoppy,95,0.015163607,16
+Food Steamers,GlenIndia,95,0.015163607,17
+Food Steamers,JioMart,95,0.015163607,18
+Food Steamers,desertcart.in,95,0.015163607,19
+Grinders,amazon,1660,0.252088079,1
+Grinders,Flipkart,580,0.088078967,2
+Grinders,ubuy,470,0.071374336,3
+Grinders,Kaapi Solutions,400,0.060744115,4
+Grinders,Meesho,400,0.060744115,5
+Grinders,bigbasket.com,390,0.059225513,6
+Grinders,Fix Coffee India,295,0.044798785,7
+Grinders,Jebelz India,285,0.043280182,8
+Grinders,Blinkit,195,0.029612756,9
+Grinders,Something's Brewing,195,0.029612756,10
+Grinders,Premier Marketing,190,0.028853455,11
+Grinders,coffee.plus,190,0.028853455,12
+Grinders,Zepto,180,0.027334852,13
+Grinders,Croma,175,0.02657555,14
+Grinders,Caffena Coffee,100,0.015186029,15
+Grinders,Chimiya,100,0.015186029,16
+Grinders,Toffee Coffee Roasters,100,0.015186029,17
+Grinders,Vishvas Oil Maker,100,0.015186029,18
+Grinders,desertcart.in,100,0.015186029,19
+Grinders,sonarappliances.com,100,0.015186029,20
+Grinders,InstaCuppa,95,0.014426727,21
+Grinders,Tradeindia.com,95,0.014426727,22
+Grinders,Zop,95,0.014426727,23
+Grinders,cart2india,95,0.014426727,24
+Hand Mixers,amazon,1860,0.219210371,1
+Hand Mixers,ubuy,1260,0.148497348,2
+Hand Mixers,Flipkart,650,0.076605775,3
+Hand Mixers,Vijay Sales,645,0.0760165,4
+Hand Mixers,bigbasket.com,535,0.063052445,5
+Hand Mixers,Myntra,490,0.057748969,6
+Hand Mixers,Croma,465,0.054802593,7
+Hand Mixers,Zepto,380,0.044784915,8
+Hand Mixers,Philips Domestic Appliances,290,0.034177961,9
+Hand Mixers,Desertcart,270,0.03182086,10
+Hand Mixers,KitchenAid,200,0.023571008,11
+Hand Mixers,desertcart.in,195,0.022981732,12
+Hand Mixers,wonderchef.com,195,0.022981732,13
+Hand Mixers,GlenIndia,190,0.022392457,14
+Hand Mixers,Instamart,100,0.011785504,15
+Hand Mixers,Microless.com,100,0.011785504,16
+Hand Mixers,Tanotis India,100,0.011785504,17
+Hand Mixers,apnidukaan.com,100,0.011785504,18
+Hand Mixers,Home Centre,95,0.011196229,19
+Hand Mixers,Swiss Military India,95,0.011196229,20
+Hand Mixers,FirstCry India,90,0.010606953,21
+Hand Mixers,Reliance Digital,90,0.010606953,22
+Hand Mixers,Tradeindia.com,90,0.010606953,23
+Handheld Vacuums,amazon,1285,0.164638053,1
+Handheld Vacuums,Flipkart,1220,0.156310058,2
+Handheld Vacuums,ubuy,1075,0.137732223,3
+Handheld Vacuums,Zepto,875,0.112107623,4
+Handheld Vacuums,bigbasket.com,670,0.085842409,5
+Handheld Vacuums,Instamart,580,0.074311339,6
+Handheld Vacuums,Blinkit,295,0.037796284,7
+Handheld Vacuums,desertcart.in,285,0.036515054,8
+Handheld Vacuums,Myntra,190,0.02434337,9
+Handheld Vacuums,cart2india,185,0.023702755,10
+Handheld Vacuums,PrintStop,180,0.02306214,11
+Handheld Vacuums,Banggood.com,100,0.0128123,12
+Handheld Vacuums,Dyson India,100,0.0128123,13
+Handheld Vacuums,Eureka Forbes,100,0.0128123,14
+Handheld Vacuums,McGrocer,100,0.0128123,15
+Handheld Vacuums,XECH,100,0.0128123,16
+Handheld Vacuums,JioMart Electronics,95,0.012171685,17
+Handheld Vacuums,Tata CLiQ - Fashion,95,0.012171685,18
+Handheld Vacuums,Vijay Sales,95,0.012171685,19
+Handheld Vacuums,IT NET,90,0.01153107,20
+Handheld Vacuums,Moglix,90,0.01153107,21
+Heaters,amazon,1360,0.214680347,1
+Heaters,Flipkart,865,0.136543015,2
+Heaters,ubuy,400,0.063141279,3
+Heaters,Furper India,395,0.062352013,4
+Heaters,Croma,370,0.058405683,5
+Heaters,Fliptwirls.com,370,0.058405683,6
+Heaters,Online,290,0.045777427,7
+Heaters,Instamart,270,0.042620363,8
+Heaters,AddMeCart,200,0.031570639,9
+Heaters,Blinkit,200,0.031570639,10
+Heaters,Orient Electric,190,0.029992107,11
+Heaters,Tata Neu,190,0.029992107,12
+Heaters,GlenIndia,100,0.01578532,13
+Heaters,Meesho,100,0.01578532,14
+Heaters,Nuuk,100,0.01578532,15
+Heaters,Raptor Supplies,100,0.01578532,16
+Heaters,shopdeck.com,100,0.01578532,17
+Heaters,touchlcdhouse.com,100,0.01578532,18
+Heaters,desertcart.in,95,0.014996054,19
+Heaters,hgspot.hr,95,0.014996054,20
+Heaters,Ankur Electricals,90,0.014206788,21
+Heaters,Favobliss,90,0.014206788,22
+Heaters,Mystore,90,0.014206788,23
+Heaters,Reliance Digital,90,0.014206788,24
+Heaters,IndustryBuying,85,0.013417522,25
+Home Environment,amazon,2050,0.237819026,1
+Home Environment,Flipkart,1420,0.164733179,2
+Home Environment,Zepto,580,0.067285383,3
+Home Environment,Croma,385,0.044663573,4
+Home Environment,Philips Domestic Appliances,295,0.034222738,5
+Home Environment,Mahajan Electronics,285,0.033062645,6
+Home Environment,Reliance Digital,200,0.023201856,7
+Home Environment,bigbasket.com,200,0.023201856,8
+Home Environment,Gadgets Now,190,0.022041763,9
+Home Environment,OWEG,190,0.022041763,10
+Home Environment,Tradeindia.com,185,0.021461717,11
+Home Environment,Bestomart.com,180,0.020881671,12
+Home Environment,Fliptwirls.com,180,0.020881671,13
+Home Environment,DigiKey India,175,0.020301624,14
+Home Environment,Apollo247,100,0.011600928,15
+Home Environment,D3D Security Systems,100,0.011600928,16
+Home Environment,Godrej Secure,100,0.011600928,17
+Home Environment,Navkar Systems,100,0.011600928,18
+Home Environment,Samsung.com,100,0.011600928,19
+Home Environment,TTK PrestigeLimited,100,0.011600928,20
+Home Environment,element14 India,100,0.011600928,21
+Home Environment,meshopindia.com,100,0.011600928,22
+Home Environment,wonderchef.com,100,0.011600928,23
+Home Environment,Eureka Forbes,95,0.011020882,24
+Home Environment,Instamart,95,0.011020882,25
+Home Environment,Microless.com,95,0.011020882,26
+Home Environment,Myntra,95,0.011020882,27
+Home Environment,Reddit,95,0.011020882,28
+Home Environment,Singer India,95,0.011020882,29
+Home Environment,apnidukaan.com,95,0.011020882,30
+Home Environment,Aajjo.com,90,0.010440835,31
+Home Environment,Ankur Electricals,90,0.010440835,32
+Home Environment,Kitchenmart.co.in,90,0.010440835,33
+Home Environment,Poorvika,90,0.010440835,34
+Home Environment,Sathya Retail,90,0.010440835,35
+Home Environment,Vijay Sales,90,0.010440835,36
+Home Environment Other,amazon,1455,0.204785362,1
+Home Environment Other,Flipkart,1060,0.149190711,2
+Home Environment Other,ubuy,575,0.080928923,3
+Home Environment Other,Zepto,390,0.054890922,4
+Home Environment Other,Blinkit,290,0.040816327,5
+Home Environment Other,bigbasket.com,290,0.040816327,6
+Home Environment Other,FNP,200,0.028149191,7
+Home Environment Other,Myntra,200,0.028149191,8
+Home Environment Other,Dyson India,195,0.027445461,9
+Home Environment Other,Tradeindia.com,190,0.026741731,10
+Home Environment Other,Mi.com,185,0.026038001,11
+Home Environment Other,JioMart Marketplace,180,0.025334272,12
+Home Environment Other,Aajjo.com,100,0.014074595,13
+Home Environment Other,Apollo247,100,0.014074595,14
+Home Environment Other,Croma,100,0.014074595,15
+Home Environment Other,Instamart,100,0.014074595,16
+Home Environment Other,JioMart Electronics,100,0.014074595,17
+Home Environment Other,Jouwklimaatkast.com,100,0.014074595,18
+Home Environment Other,1mg,95,0.013370866,19
+Home Environment Other,Eureka Forbes,95,0.013370866,20
+Home Environment Other,Moglix,95,0.013370866,21
+Home Environment Other,Neverowned India,95,0.013370866,22
+Home Environment Other,Vijay Sales,95,0.013370866,23
+Home Environment Other,cart2india,95,0.013370866,24
+Home Environment Other,portronics.com,95,0.013370866,25
+Home Environment Other,Dynamic Distributors,90,0.012667136,26
+Home Environment Other,FreeUp,90,0.012667136,27
+Home Environment Other,Mahajan Electronics,90,0.012667136,28
+Home Environment Other,OpenBoxWale.in,90,0.012667136,29
+Home Environment Other,Poorvika,90,0.012667136,30
+Home Environment Other,Reliance Digital,90,0.012667136,31
+Home Environment Other,Sangeetha Mobiles,90,0.012667136,32
+Humidifier Accessories,amazon,1390,0.249103943,1
+Humidifier Accessories,ubuy,680,0.121863799,2
+Humidifier Accessories,Flipkart,395,0.07078853,3
+Humidifier Accessories,Zepto,390,0.069892473,4
+Humidifier Accessories,desertcart.in,390,0.069892473,5
+Humidifier Accessories,Blinkit,380,0.068100358,6
+Humidifier Accessories,Meesho,195,0.034946237,7
+Humidifier Accessories,cart2india,195,0.034946237,8
+Humidifier Accessories,Fliptwirls.com,180,0.032258065,9
+Humidifier Accessories,AddMeCart,100,0.017921147,10
+Humidifier Accessories,Computech Store,100,0.017921147,11
+Humidifier Accessories,Croma,100,0.017921147,12
+Humidifier Accessories,Furper India,100,0.017921147,13
+Humidifier Accessories,Home Centre,100,0.017921147,14
+Humidifier Accessories,JioMart Marketplace,100,0.017921147,15
+Humidifier Accessories,Raptor Supplies,100,0.017921147,16
+Humidifier Accessories,Rootlab Global,100,0.017921147,17
+Humidifier Accessories,Toolsvilla,100,0.017921147,18
+Humidifier Accessories,VedaOils,100,0.017921147,19
+Humidifier Accessories,iBhejo.com,100,0.017921147,20
+Humidifier Accessories,Alibaba.com,95,0.01702509,21
+Humidifier Accessories,Sharp Imaging,95,0.01702509,22
+Humidifier Accessories,portronics.com,95,0.01702509,23
+Humidifiers,amazon,1685,0.257055683,1
+Humidifiers,Flipkart,880,0.134248665,2
+Humidifiers,Zepto,780,0.118993135,3
+Humidifiers,Blinkit,680,0.103737605,4
+Humidifiers,ubuy,680,0.103737605,5
+Humidifiers,Fliptwirls.com,460,0.070175439,6
+Humidifiers,portronics.com,380,0.057971014,7
+Humidifiers,AddMeCart,180,0.027459954,8
+Humidifiers,Furper India,100,0.01525553,9
+Humidifiers,JioMart,100,0.01525553,10
+Humidifiers,JioMart Marketplace,100,0.01525553,11
+Humidifiers,Reliance Digital,100,0.01525553,12
+Humidifiers,Meesho,95,0.014492754,13
+Humidifiers,Moglix,95,0.014492754,14
+Humidifiers,TechGearLab,85,0.012967201,15
+Humidifiers,ShopSavvy,80,0.012204424,16
+Humidifiers,Bmmetalmart,75,0.011441648,17
+Ice Cream Machines,ubuy,1665,0.252655539,1
+Ice Cream Machines,amazon,1600,0.242792109,2
+Ice Cream Machines,desertcart.in,660,0.100151745,3
+Ice Cream Machines,Flipkart,580,0.08801214,4
+Ice Cream Machines,Bakersville Shop,500,0.075872534,5
+Ice Cream Machines,JioMart Marketplace,360,0.054628225,6
+Ice Cream Machines,Naya Gadget,285,0.043247344,7
+Ice Cream Machines,XECH,285,0.043247344,8
+Ice Cream Machines,Alibaba.com,100,0.015174507,9
+Ice Cream Machines,Jouwklimaatkast.com,100,0.015174507,10
+Ice Cream Machines,Microless.com,100,0.015174507,11
+Ice Cream Machines,DesiDime,95,0.014415781,12
+Ice Cream Machines,KitchenAid,95,0.014415781,13
+Ice Cream Machines,NDTV Shopping,85,0.012898331,14
+Ice Cream Machines,PriceHistory.app,80,0.012139605,15
+Inverter & Battery Combo,amazon,1370,0.35538262,1
+Inverter & Battery Combo,Flipkart,750,0.194552529,2
+Inverter & Battery Combo,V-Guard,300,0.077821012,3
+Inverter & Battery Combo,vguard.com,300,0.077821012,4
+Inverter & Battery Combo,Tradeindia.com,200,0.051880674,5
+Inverter & Battery Combo,Aajjo.com,100,0.025940337,6
+Inverter & Battery Combo,Battery Boss,100,0.025940337,7
+Inverter & Battery Combo,Himalayan Power Products,100,0.025940337,8
+Inverter & Battery Combo,IndustryBuying,100,0.025940337,9
+Inverter & Battery Combo,vguard,100,0.025940337,10
+Inverter & Battery Combo,Multinetcity,95,0.02464332,11
+Inverter & Battery Combo,powerformula.in,90,0.023346304,12
+Inverter & Battery Combo,Moglix,85,0.022049287,13
+Inverter & Battery Combo,Vguard,85,0.022049287,14
+Inverter & Battery Combo,Gadgets 360,80,0.02075227,15
+Inverter Accessories,amazon,2260,0.307692308,1
+Inverter Accessories,Flipkart,1145,0.155888359,2
+Inverter Accessories,amiciKart,670,0.091218516,3
+Inverter Accessories,IndustryBuying,370,0.050374404,4
+Inverter Accessories,BonziCart,200,0.027229408,5
+Inverter Accessories,Robu.in,200,0.027229408,6
+Inverter Accessories,Zepto,200,0.027229408,7
+Inverter Accessories,DigiKey India,190,0.025867937,8
+Inverter Accessories,Electronio,190,0.025867937,9
+Inverter Accessories,Tradeindia.com,190,0.025867937,10
+Inverter Accessories,AJIO.com,100,0.013614704,11
+Inverter Accessories,Blinkit,100,0.013614704,12
+Inverter Accessories,ComponentsTree.com,100,0.013614704,13
+Inverter Accessories,Emafiya,100,0.013614704,14
+Inverter Accessories,Himalayan Power Products,100,0.013614704,15
+Inverter Accessories,Network Hardwares,100,0.013614704,16
+Inverter Accessories,Seventh Square,100,0.013614704,17
+Inverter Accessories,aquatecplus,100,0.013614704,18
+Inverter Accessories,elexify.online,100,0.013614704,19
+Inverter Accessories,mdcomputers.in,100,0.013614704,20
+Inverter Accessories,Globomotive Shop,95,0.012933969,21
+Inverter Accessories,fingersstore.com,95,0.012933969,22
+Inverter Accessories,IndiaMART,90,0.012253233,23
+Inverter Accessories,JioMart Marketplace,90,0.012253233,24
+Inverter Accessories,Myntra,90,0.012253233,25
+Inverter Accessories,Singer India,90,0.012253233,26
+Inverter Accessories,boAt,90,0.012253233,27
+Inverter Accessories,flipkart,90,0.012253233,28
+Inverters,amazon,600,0.353982301,1
+Inverters,Flipkart,295,0.174041298,2
+Inverters,Moglix,200,0.1179941,3
+Inverters,BiGGPanTheR.com,100,0.05899705,4
+Inverters,IndustryBuying,100,0.05899705,5
+Inverters,UTL Solar,100,0.05899705,6
+Inverters,V-Guard,100,0.05899705,7
+Inverters,boAt,100,0.05899705,8
+Inverters,vguard,100,0.05899705,9
+Ironing Boards and Accessories,amazon,1595,0.265391015,1
+Ironing Boards and Accessories,Flipkart,965,0.160565724,2
+Ironing Boards and Accessories,bathla,570,0.09484193,3
+Ironing Boards and Accessories,Blinkit,400,0.06655574,4
+Ironing Boards and Accessories,Home Centre,300,0.049916805,5
+Ironing Boards and Accessories,AJIO.com,285,0.047420965,6
+Ironing Boards and Accessories,Lifelong Online,285,0.047420965,7
+Ironing Boards and Accessories,Instamart,270,0.044925125,8
+Ironing Boards and Accessories,Zepto,200,0.03327787,9
+Ironing Boards and Accessories,Nykaa,185,0.03078203,10
+Ironing Boards and Accessories,The Better Home,185,0.03078203,11
+Ironing Boards and Accessories,IKEA.in,100,0.016638935,12
+Ironing Boards and Accessories,JioMart Grocery,100,0.016638935,13
+Ironing Boards and Accessories,Meesho,100,0.016638935,14
+Ironing Boards and Accessories,TidyHomz,100,0.016638935,15
+Ironing Boards and Accessories,Peng Essentials,95,0.015806988,16
+Ironing Boards and Accessories,ubuy,95,0.015806988,17
+Ironing Boards and Accessories,Digital Shoppy,90,0.014975042,18
+Ironing Boards and Accessories,desertcart.in,90,0.014975042,19
+Irons,Flipkart,1415,0.163112392,1
+Irons,amazon,985,0.113544669,2
+Irons,Myntra,945,0.108933718,3
+Irons,Reliance Digital,865,0.099711816,4
+Irons,Croma,645,0.074351585,5
+Irons,Electronio,570,0.065706052,6
+Irons,Vijay Sales,485,0.055907781,7
+Irons,Blinkit,460,0.053025937,8
+Irons,Zepto,400,0.04610951,9
+Irons,ubuy,295,0.034005764,10
+Irons,Havells,195,0.022478386,11
+Irons,Philips Domestic Appliances,190,0.021902017,12
+Irons,vlebazaar.in,180,0.02074928,13
+Irons,JioMart Marketplace,100,0.011527378,14
+Irons,Meesho,100,0.011527378,15
+Irons,eibmarkt.com,100,0.011527378,16
+Irons,myborosil,100,0.011527378,17
+Irons,Bajaj Electricals India,95,0.010951009,18
+Irons,Instamart,95,0.010951009,19
+Irons,bigbasket.com,95,0.010951009,20
+Irons,Gadgets Now,90,0.01037464,21
+Irons,GetUSCart,90,0.01037464,22
+Irons,New Variety Store,90,0.01037464,23
+Irons,Vevcart,90,0.01037464,24
+Juicers,amazon,1530,0.2461786,1
+Juicers,Flipkart,865,0.139179405,2
+Juicers,ubuy,595,0.095736122,3
+Juicers,Croma,475,0.076427997,4
+Juicers,Hyperpure,300,0.048270314,5
+Juicers,Reliance Digital,275,0.044247788,6
+Juicers,bigbasket.com,200,0.032180209,7
+Juicers,Blinkit,185,0.029766693,8
+Juicers,Electronio,185,0.029766693,9
+Juicers,RasoiShop,185,0.029766693,10
+Juicers,GlenIndia,100,0.016090105,11
+Juicers,Instamart,100,0.016090105,12
+Juicers,Meesho,100,0.016090105,13
+Juicers,Myntra,100,0.016090105,14
+Juicers,Tata CLiQ - Fashion,100,0.016090105,15
+Juicers,cayroshop.com,100,0.016090105,16
+Juicers,Atomberg,95,0.015285599,17
+Juicers,Hurom Arabia,95,0.015285599,18
+Juicers,myborosil,95,0.015285599,19
+Juicers,Bhasin Appliances,90,0.014481094,20
+Juicers,Fliptwirls.com,90,0.014481094,21
+Juicers,OWEG,90,0.014481094,22
+Juicers,Tata Neu,90,0.014481094,23
+Juicers,Tradeindia.com,90,0.014481094,24
+Juicers,New Variety Store,85,0.013676589,25
+Lamps,amazon,1000,0.201005025,1
+Lamps,Flipkart,585,0.11758794,2
+Lamps,Myntra,490,0.098492462,3
+Lamps,Meesho,300,0.060301508,4
+Lamps,Zepto,295,0.059296482,5
+Lamps,The Times of India,285,0.057286432,6
+Lamps,Fabindia,200,0.040201005,7
+Lamps,Philips Lighting India,200,0.040201005,8
+Lamps,AJIO.com,180,0.036180905,9
+Lamps,Home Centre,100,0.020100503,10
+Lamps,Jaypore,100,0.020100503,11
+Lamps,Joyalukkas,100,0.020100503,12
+Lamps,Orient Electric,100,0.020100503,13
+Lamps,Reliance Digital,100,0.020100503,14
+Lamps,Upciclo.com,100,0.020100503,15
+Lamps,mobspares,100,0.020100503,16
+Lamps,Homesake.in,95,0.019095477,17
+Lamps,Tata CLiQ - Fashion,95,0.019095477,18
+Lamps,Wooden Street,95,0.019095477,19
+Lamps,xiaomihomekenya.co.ke,95,0.019095477,20
+Lamps,BlackTree,90,0.018090452,21
+Lamps,Ikiru,90,0.018090452,22
+Lamps,Urban Ladder,90,0.018090452,23
+Lamps,desertcart.in,90,0.018090452,24
+Microwave Oven,Flipkart,2740,0.269023073,1
+Microwave Oven,Reliance Digital,1370,0.134511537,2
+Microwave Oven,Electronio,880,0.086401571,3
+Microwave Oven,amazon,880,0.086401571,4
+Microwave Oven,Samsung.com,870,0.085419735,5
+Microwave Oven,Croma,650,0.063819342,6
+Microwave Oven,myG,565,0.055473736,7
+Microwave Oven,Panasonic Online Store,480,0.04712813,8
+Microwave Oven,Zepto,270,0.026509573,9
+Microwave Oven,Sahu Agencies,190,0.018654885,10
+Microwave Oven,Dynamic Distributors,180,0.017673049,11
+Microwave Oven,RPG Electrade,180,0.017673049,12
+Microwave Oven,EMI Snapmint,95,0.009327442,13
+Microwave Oven,House of Deals,95,0.009327442,14
+Microwave Oven,Moglix,95,0.009327442,15
+Microwave Oven,Neverowned India,95,0.009327442,16
+Microwave Oven,Pittappillil Agencies,95,0.009327442,17
+Microwave Oven,cayroshop.com,95,0.009327442,18
+Microwave Oven,Bajaj Electricals India,90,0.008836524,19
+Microwave Oven,Gadgets Now,90,0.008836524,20
+Microwave Oven,Mobex,90,0.008836524,21
+Microwave Oven,Tradeindia.com,90,0.008836524,22
+Mixer Grinder Juicers,Flipkart,2660,0.260273973,1
+Mixer Grinder Juicers,amazon,2045,0.200097847,2
+Mixer Grinder Juicers,Myntra,770,0.075342466,3
+Mixer Grinder Juicers,Reliance Digital,760,0.074363992,4
+Mixer Grinder Juicers,Croma,665,0.065068493,5
+Mixer Grinder Juicers,Electronio,450,0.044031311,6
+Mixer Grinder Juicers,Philips Domestic Appliances,395,0.038649706,7
+Mixer Grinder Juicers,TTK PrestigeLimited,385,0.037671233,8
+Mixer Grinder Juicers,Hyperpure,300,0.029354207,9
+Mixer Grinder Juicers,shop.preethi.in,295,0.028864971,10
+Mixer Grinder Juicers,RasoiShop,285,0.027886497,11
+Mixer Grinder Juicers,OWEG,185,0.018101761,12
+Mixer Grinder Juicers,PrintStop,180,0.017612524,13
+Mixer Grinder Juicers,JioMart Marketplace,100,0.009784736,14
+Mixer Grinder Juicers,Lifelong Online,100,0.009784736,15
+Mixer Grinder Juicers,rockingdeals,100,0.009784736,16
+Mixer Grinder Juicers,Zepto,95,0.009295499,17
+Mixer Grinder Juicers,Bajaj World,90,0.008806262,18
+Mixer Grinder Juicers,DMart Ready,90,0.008806262,19
+Mixer Grinder Juicers,Moglix,90,0.008806262,20
+Mixer Grinder Juicers,Tradeindia.com,90,0.008806262,21
+Mixer Grinder Juicers,Vasanth and Co,90,0.008806262,22
+Portable Air Conditioners,ubuy,590,0.177443609,1
+Portable Air Conditioners,Croma,400,0.120300752,2
+Portable Air Conditioners,amazon,400,0.120300752,3
+Portable Air Conditioners,Tata Neu,285,0.085714286,4
+Portable Air Conditioners,Tradeindia.com,200,0.060150376,5
+Portable Air Conditioners,AJIO.com,100,0.030075188,6
+Portable Air Conditioners,Globomotive Shop,100,0.030075188,7
+Portable Air Conditioners,Inspire Uplift,100,0.030075188,8
+Portable Air Conditioners,Network Hardwares,100,0.030075188,9
+Portable Air Conditioners,Philips Domestic Appliances,100,0.030075188,10
+Portable Air Conditioners,SUBER,100,0.030075188,11
+Portable Air Conditioners,Tunmarg Aircon,100,0.030075188,12
+Portable Air Conditioners,desertcart.in,100,0.030075188,13
+Portable Air Conditioners,DigiKey India,95,0.028571429,14
+Portable Air Conditioners,Electronio,95,0.028571429,15
+Portable Air Conditioners,Flipkart,95,0.028571429,16
+Portable Air Conditioners,Instamart,95,0.028571429,17
+Portable Air Conditioners,EMI Snapmint,90,0.027067669,18
+Portable Air Conditioners,Reliance Digital,90,0.027067669,19
+Portable Air Conditioners,myG,90,0.027067669,20
+Reconditioned Others,amazon,990,0.130779392,1
+Reconditioned Others,Flipkart,560,0.073976222,2
+Reconditioned Others,vlebazaar.in,390,0.051519155,3
+Reconditioned Others,CeX,300,0.039630119,4
+Reconditioned Others,Shopy Vision,290,0.038309115,5
+Reconditioned Others,ubuy,290,0.038309115,6
+Reconditioned Others,Tradeindia.com,285,0.037648613,7
+Reconditioned Others,Fliptwirls.com,275,0.036327609,8
+Reconditioned Others,Electronio,200,0.026420079,9
+Reconditioned Others,Lenovo India,200,0.026420079,10
+Reconditioned Others,Ovantica.com,200,0.026420079,11
+Reconditioned Others,Reliance Digital,185,0.024438573,12
+Reconditioned Others,cayroshop.com,185,0.024438573,13
+Reconditioned Others,Finebuy Online,180,0.023778071,14
+Reconditioned Others,ShopatSC,180,0.023778071,15
+Reconditioned Others,Bharathi Systems and Services,100,0.01321004,16
+Reconditioned Others,BoomDeal,100,0.01321004,17
+Reconditioned Others,Cashify,100,0.01321004,18
+Reconditioned Others,GameLoot,100,0.01321004,19
+Reconditioned Others,Laptomart,100,0.01321004,20
+Reconditioned Others,Panasonic Online Store,100,0.01321004,21
+Reconditioned Others,Wholemonkey,100,0.01321004,22
+Reconditioned Others,Zoneofdeals,100,0.01321004,23
+Reconditioned Others,Zopic,100,0.01321004,24
+Reconditioned Others,bathla,100,0.01321004,25
+Reconditioned Others,AddMeCart,95,0.012549538,26
+Reconditioned Others,Gigastar.in,95,0.012549538,27
+Reconditioned Others,JioMart Electronics,95,0.012549538,28
+Reconditioned Others,KitchenAid Centre Mumbai,95,0.012549538,29
+Reconditioned Others,Myntra,95,0.012549538,30
+Reconditioned Others,TGTLuxe,95,0.012549538,31
+Reconditioned Others,UltraDeals,95,0.012549538,32
+Reconditioned Others,Unboxify,95,0.012549538,33
+Reconditioned Others,Zebronics,95,0.012549538,34
+Reconditioned Others,Zepto,95,0.012549538,35
+Reconditioned Others,vishalperipherals,95,0.012549538,36
+Reconditioned Others,vplak.com,95,0.012549538,37
+Reconditioned Others,EMI Snapmint,90,0.011889036,38
+Reconditioned Others,Gadgets Now,90,0.011889036,39
+Reconditioned Others,Krishna Watch Company,90,0.011889036,40
+Reconditioned Others,Made-in-China.com,90,0.011889036,41
+Reconditioned Others,The Engineer Store,90,0.011889036,42
+Reconditioned Others,TopMarket.co.il,90,0.011889036,43
+Reconditioned Others,TsiKart,90,0.011889036,44
+Reconditioned Others,www.mainzempire.com.sg,90,0.011889036,45
+Refrigerators,Flipkart,1715,0.181098205,1
+Refrigerators,Electronio,1125,0.118796199,2
+Refrigerators,amazon,1080,0.114044351,3
+Refrigerators,Reliance Digital,970,0.102428722,4
+Refrigerators,Croma,910,0.096092925,5
+Refrigerators,House of Deals,480,0.050686378,6
+Refrigerators,Samsung.com,380,0.040126716,7
+Refrigerators,Gadgets Now,370,0.03907075,8
+Refrigerators,Tata Neu,365,0.038542767,9
+Refrigerators,Neverowned India,295,0.031151003,10
+Refrigerators,Tradeindia.com,295,0.031151003,11
+Refrigerators,Whirlpool,285,0.030095037,12
+Refrigerators,EMI Snapmint,195,0.020591341,13
+Refrigerators,In stock online,100,0.010559662,14
+Refrigerators,9to5 Spaces,95,0.010031679,15
+Refrigerators,Ankur Electricals,90,0.009503696,16
+Refrigerators,BoomDeal,90,0.009503696,17
+Refrigerators,Dynamic Distributors,90,0.009503696,18
+Refrigerators,Fliptwirls.com,90,0.009503696,19
+Refrigerators,Moglix,90,0.009503696,20
+Refrigerators,Pai International,90,0.009503696,21
+Refrigerators,SUBER,90,0.009503696,22
+Refrigerators,Sathya Retail,90,0.009503696,23
+Refrigerators,ctinfotech.link,90,0.009503696,24
+Rice Cookers,amazon,2495,0.25394402,1
+Rice Cookers,Flipkart,1685,0.171501272,2
+Rice Cookers,bigbasket.com,680,0.069211196,3
+Rice Cookers,Reliance Digital,395,0.040203562,4
+Rice Cookers,Myntra,385,0.039185751,5
+Rice Cookers,Zepto,370,0.037659033,6
+Rice Cookers,Poorvika,260,0.026463104,7
+Rice Cookers,acitydiscount.com,260,0.026463104,8
+Rice Cookers,nedis.com,255,0.025954198,9
+Rice Cookers,wafuu.com,200,0.020356234,10
+Rice Cookers,ubuy,190,0.019338422,11
+Rice Cookers,Ankur Electricals,185,0.018829517,12
+Rice Cookers,Wonderchef,185,0.018829517,13
+Rice Cookers,Tata CLiQ - Fashion,175,0.017811705,14
+Rice Cookers,Facebook,150,0.015267176,15
+Rice Cookers,Geek Technology India,100,0.010178117,16
+Rice Cookers,Instamart,100,0.010178117,17
+Rice Cookers,Meesho,100,0.010178117,18
+Rice Cookers,TTK PrestigeLimited,100,0.010178117,19
+Rice Cookers,kitchenmart.co.in,100,0.010178117,20
+Rice Cookers,Aajjo.com,95,0.009669211,21
+Rice Cookers,Tradeindia.com,95,0.009669211,22
+Rice Cookers,Zebronics,95,0.009669211,23
+Rice Cookers,biwholesale,95,0.009669211,24
+Rice Cookers,eBay,95,0.009669211,25
+Rice Cookers,Discovery Japan,90,0.009160305,26
+Rice Cookers,JioMart Grocery,90,0.009160305,27
+Rice Cookers,JioMart Marketplace,90,0.009160305,28
+Rice Cookers,KitchenAid Centre Mumbai,90,0.009160305,29
+Rice Cookers,OWEG,90,0.009160305,30
+Rice Cookers,Official Brand Stores,90,0.009160305,31
+Rice Cookers,Walmart,90,0.009160305,32
+Rice Cookers,rockingdeals,90,0.009160305,33
+Rice Cookers,Specialty Retailers,85,0.008651399,34
+Rice Cookers,Serious Eats,70,0.007124682,35
+Rice Cookers,Bon Appétit,40,0.004071247,36
+Rice Cookers,Walmart.com,35,0.003562341,37
+Rice Cookers,The Spruce Eats,30,0.003053435,38
+Rice Cookers,Food Network,0,0,39
+Rice Cookers,Reddit,0,0,40
+Rice Cookers,The Guardian,0,0,41
+Robotic Vacuums & Accessories,amazon,1260,0.151260504,1
+Robotic Vacuums & Accessories,Flipkart,835,0.100240096,2
+Robotic Vacuums & Accessories,ubuy,760,0.091236495,3
+Robotic Vacuums & Accessories,Croma,645,0.077430972,4
+Robotic Vacuums & Accessories,Dreame,425,0.051020408,5
+Robotic Vacuums & Accessories,Reliance Digital,300,0.036014406,6
+Robotic Vacuums & Accessories,Unboxify,300,0.036014406,7
+Robotic Vacuums & Accessories,Eshopi.com,295,0.035414166,8
+Robotic Vacuums & Accessories,Vijay Sales,285,0.034213685,9
+Robotic Vacuums & Accessories,Roborock US Official Store,250,0.030012005,10
+Robotic Vacuums & Accessories,touchlcdhouse.com,200,0.024009604,11
+Robotic Vacuums & Accessories,desertcart.in,195,0.023409364,12
+Robotic Vacuums & Accessories,bestomart.com,190,0.022809124,13
+Robotic Vacuums & Accessories,Sangeetha Mobiles,185,0.022208884,14
+Robotic Vacuums & Accessories,FirstCry India,180,0.021608643,15
+Robotic Vacuums & Accessories,Tata Neu,180,0.021608643,16
+Robotic Vacuums & Accessories,Zepto,180,0.021608643,17
+Robotic Vacuums & Accessories,ECOVACS,160,0.019207683,18
+Robotic Vacuums & Accessories,Myntra,100,0.012004802,19
+Robotic Vacuums & Accessories,New Tech Store,100,0.012004802,20
+Robotic Vacuums & Accessories,Roborock forum,100,0.012004802,21
+Robotic Vacuums & Accessories,The Times of India,100,0.012004802,22
+Robotic Vacuums & Accessories,ilifecare.in,100,0.012004802,23
+Robotic Vacuums & Accessories,Desertcart,95,0.011404562,24
+Robotic Vacuums & Accessories,Pepperfry,95,0.011404562,25
+Robotic Vacuums & Accessories,WIRED,95,0.011404562,26
+Robotic Vacuums & Accessories,Alibaba.com,90,0.010804322,27
+Robotic Vacuums & Accessories,Blumaple,90,0.010804322,28
+Robotic Vacuums & Accessories,EMI Snapmint,90,0.010804322,29
+Robotic Vacuums & Accessories,Eureka,90,0.010804322,30
+Robotic Vacuums & Accessories,Favobliss,90,0.010804322,31
+Robotic Vacuums & Accessories,The Guardian,90,0.010804322,32
+Robotic Vacuums & Accessories,The Ambient,75,0.009003601,33
+Robotic Vacuums & Accessories,Techtek Shop,40,0.004801921,34
+Robotic Vacuums & Accessories,Android Police,35,0.004201681,35
+Robotic Vacuums & Accessories,liwaspring.com,30,0.003601441,36
+Robotic Vacuums & Accessories,Android Authority,0,0,37
+Robotic Vacuums & Accessories,Gearbrain,0,0,38
+Robotic Vacuums & Accessories,Robotvacuums.com,0,0,39
+Robotic Vacuums & Accessories,Smart Robot Reviews,0,0,40
+Robotic Vacuums & Accessories,TechUpLife,0,0,41
+Robotic Vacuums & Accessories,The Straits Times,0,0,42
+Robotic Vacuums & Accessories,YouTube,0,0,43
+Robotic Vacuums & Accessories,boAt,0,0,44
+Robotic Vacuums & Accessories,iFixit,0,0,45
+Rotisseries,ubuy,2450,0.333560245,1
+Rotisseries,amazon,600,0.081688223,2
+Rotisseries,AJIO.com,500,0.068073519,3
+Rotisseries,desertcart.in,475,0.064669843,4
+Rotisseries,Flipkart,395,0.05377808,5
+Rotisseries,Alibaba.com,300,0.040844112,6
+Rotisseries,Croma,195,0.026548673,7
+Rotisseries,Ekitchen,195,0.026548673,8
+Rotisseries,Meesho,195,0.026548673,9
+Rotisseries,Tata Neu,195,0.026548673,10
+Rotisseries,Moglix,190,0.025867937,11
+Rotisseries,myG,180,0.024506467,12
+Rotisseries,Chefs Deal,100,0.013614704,13
+Rotisseries,Reliance Digital,100,0.013614704,14
+Rotisseries,Tradeindia.com,100,0.013614704,15
+Rotisseries,VMOne,100,0.013614704,16
+Rotisseries,libraappliances.com,100,0.013614704,17
+Rotisseries,GetUSCart,95,0.012933969,18
+Rotisseries,Tata CLiQ - Fashion,95,0.012933969,19
+Rotisseries,UBUY,95,0.012933969,20
+Rotisseries,apnidukaan.com,95,0.012933969,21
+Rotisseries,ndtv.com,95,0.012933969,22
+Rotisseries,Bhasin Appliances,90,0.012253233,23
+Rotisseries,FirstCry India,90,0.012253233,24
+Rotisseries,Zebronics,90,0.012253233,25
+Rotisseries,kitchenmart.co.in,90,0.012253233,26
+Rotisseries,The Spruce Eats,85,0.011572498,27
+Rotisseries,Reddit,55,0.007488087,28
+Sewing Machines,amazon,1075,0.170499603,1
+Sewing Machines,Unknown,870,0.137985726,2
+Sewing Machines,ubuy,665,0.105471848,3
+Sewing Machines,Flipkart,585,0.092783505,4
+Sewing Machines,AJIO.com,495,0.07850912,5
+Sewing Machines,Tradeindia.com,475,0.075337034,6
+Sewing Machines,Murthy Sewing Machines,295,0.046788263,7
+Sewing Machines,Meesho,200,0.031720856,8
+Sewing Machines,desertcart.in,200,0.031720856,9
+Sewing Machines,Philips Lighting India,195,0.030927835,10
+Sewing Machines,sangatmachine.in,195,0.030927835,11
+Sewing Machines,Microless.com,190,0.030134814,12
+Sewing Machines,cart2india,190,0.030134814,13
+Sewing Machines,Alibaba.com,100,0.015860428,14
+Sewing Machines,Myntra,100,0.015860428,15
+Sewing Machines,swatisewingmachine,100,0.015860428,16
+Sewing Machines,Bobbin USA,95,0.015067407,17
+Sewing Machines,IIGM,95,0.015067407,18
+Sewing Machines,SewingIndian.com,95,0.015067407,19
+Sewing Machines,StitchSpares.com,90,0.014274385,20
+Slow Cookers,Flipkart,1960,0.228172293,1
+Slow Cookers,Pringle Appliances,1565,0.182188591,2
+Slow Cookers,amazon,965,0.11233993,3
+Slow Cookers,cayroshop.com,475,0.055296857,4
+Slow Cookers,JioMart Marketplace,400,0.046565774,5
+Slow Cookers,Bhasin Appliances,390,0.04540163,6
+Slow Cookers,ubuy,390,0.04540163,7
+Slow Cookers,rockingdeals,200,0.023282887,8
+Slow Cookers,Ekitchen,190,0.022118743,9
+Slow Cookers,AJIO.com,100,0.011641444,10
+Slow Cookers,Blinkit,100,0.011641444,11
+Slow Cookers,Bookscape,100,0.011641444,12
+Slow Cookers,Digismart Inc.,100,0.011641444,13
+Slow Cookers,Fliptwirls.com,100,0.011641444,14
+Slow Cookers,JioMart Electronics,100,0.011641444,15
+Slow Cookers,Meesho,100,0.011641444,16
+Slow Cookers,Reliance Digital,100,0.011641444,17
+Slow Cookers,Wonderchef,100,0.011641444,18
+Slow Cookers,eBay,100,0.011641444,19
+Slow Cookers,KitchenAid Centre Mumbai,95,0.011059371,20
+Slow Cookers,Tata CLiQ - Fashion,95,0.011059371,21
+Slow Cookers,apnidukaan.com,95,0.011059371,22
+Slow Cookers,Ahuja Sons Khan Market,90,0.010477299,23
+Slow Cookers,Croma,90,0.010477299,24
+Slow Cookers,EatingWell,90,0.010477299,25
+Slow Cookers,Nykaa,90,0.010477299,26
+Slow Cookers,homedepot.com,85,0.009895227,27
+Slow Cookers,Facebook,75,0.008731083,28
+Slow Cookers,all-clad.com,70,0.00814901,29
+Slow Cookers,soupercubes.com,65,0.007566938,30
+Slow Cookers,Reddit,60,0.006984866,31
+Slow Cookers,surlatable.com,55,0.006402794,32
+Small Appliances,amazon,2205,0.319565217,1
+Small Appliances,Flipkart,1210,0.175362319,2
+Small Appliances,Meesho,395,0.057246377,3
+Small Appliances,Zepto,380,0.055072464,4
+Small Appliances,ubuy,285,0.041304348,5
+Small Appliances,Unknown,265,0.038405797,6
+Small Appliances,Faber India,200,0.028985507,7
+Small Appliances,amiciKart,200,0.028985507,8
+Small Appliances,Deodap,100,0.014492754,9
+Small Appliances,Hawkins,100,0.014492754,10
+Small Appliances,KitchenAid Centre Mumbai,100,0.014492754,11
+Small Appliances,Myntra,100,0.014492754,12
+Small Appliances,Orpat Group,100,0.014492754,13
+Small Appliances,SharkNinja,100,0.014492754,14
+Small Appliances,Target,100,0.014492754,15
+Small Appliances,kitchenmart.co.in,100,0.014492754,16
+Small Appliances,COSORI,95,0.013768116,17
+Small Appliances,myborosil,95,0.013768116,18
+Small Appliances,skyshopy,95,0.013768116,19
+Small Appliances,Ekitchen,90,0.013043478,20
+Small Appliances,OrganizeMee Website,90,0.013043478,21
+Small Appliances,Rama Shoppee,90,0.013043478,22
+Small Appliances,Tradesala,90,0.013043478,23
+Small Appliances,bigbasket.com,90,0.013043478,24
+Small Appliances,New Variety Store,80,0.011594203,25
+Small Appliances,Cuisinart,75,0.010869565,26
+Small Appliances,Blinkit,70,0.010144928,27
+Stand Mixers,ubuy,1370,0.329723225,1
+Stand Mixers,amazon,875,0.210589651,2
+Stand Mixers,Ekitchen,295,0.070998797,3
+Stand Mixers,Flipkart,295,0.070998797,4
+Stand Mixers,Instamart,190,0.045728039,5
+Stand Mixers,desertcart.in,190,0.045728039,6
+Stand Mixers,Bajaj Electricals India,180,0.0433213,7
+Stand Mixers,kitchenmart.co.in,180,0.0433213,8
+Stand Mixers,Fliptwirls.com,100,0.024067389,9
+Stand Mixers,Microless.com,100,0.024067389,10
+Stand Mixers,Neverowned India,100,0.024067389,11
+Stand Mixers,JioMart Marketplace,95,0.022864019,12
+Stand Mixers,Shoppers Stop,95,0.022864019,13
+Stand Mixers,Something's Brewing,90,0.02166065,14
+Steamers,amazon,600,0.510638298,1
+Steamers,Walmart.com,250,0.212765957,2
+Steamers,Wayfair,170,0.144680851,3
+Steamers,homedepot.com,100,0.085106383,4
+Steamers,Lowes,55,0.046808511,5
+Steamers,Kohls.com,0,0,6
+Toaster Ovens,WIRED,195,0.506493506,1
+Toaster Ovens,amazon,100,0.25974026,2
+Toaster Ovens,Bon Appétit,90,0.233766234,3
+Toasters,ubuy,1480,0.279508971,1
+Toasters,Croma,575,0.108593012,2
+Toasters,Flipkart,570,0.107648725,3
+Toasters,amazon,395,0.074598678,4
+Toasters,Vijay Sales,375,0.07082153,5
+Toasters,Neverowned India,195,0.036827195,6
+Toasters,desertcart.in,195,0.036827195,7
+Toasters,Gauryog,100,0.018885741,8
+Toasters,Havells,100,0.018885741,9
+Toasters,cart2india,100,0.018885741,10
+Toasters,AJIO.com,95,0.017941454,11
+Toasters,Bajaj Electricals India,95,0.017941454,12
+Toasters,GetUSCart,95,0.017941454,13
+Toasters,TTK PrestigeLimited,95,0.017941454,14
+Toasters,Tata Neu,95,0.017941454,15
+Toasters,Tradeindia.com,95,0.017941454,16
+Toasters,bigbasket.com,95,0.017941454,17
+Toasters,myG,95,0.017941454,18
+Toasters,Gadgets Now,90,0.016997167,19
+Toasters,Sathya Retail,90,0.016997167,20
+Toasters,apnidukaan.com,90,0.016997167,21
+Toasters,bestomart.com,90,0.016997167,22
+Toasters,vlebazaar.in,90,0.016997167,23
+Upright Vacuums,amazon,4170,0.57240906,1
+Upright Vacuums,ubuy,1280,0.1757035,2
+Upright Vacuums,Sanitaire Commercial,535,0.073438572,3
+Upright Vacuums,desertcart.in,370,0.050789293,4
+Upright Vacuums,Dyson India,100,0.013726836,5
+Upright Vacuums,Homes and Gardens,100,0.013726836,6
+Upright Vacuums,McGrocer,100,0.013726836,7
+Upright Vacuums,AJIO.com,95,0.013040494,8
+Upright Vacuums,Croma,95,0.013040494,9
+Upright Vacuums,Reddit,95,0.013040494,10
+Upright Vacuums,Target,90,0.012354152,11
+Upright Vacuums,TieDex,90,0.012354152,12
+Upright Vacuums,Walmart.com,85,0.011667811,13
+Upright Vacuums,TechGearLab,80,0.010981469,14
+Vacuums Outlet,amazon,3170,0.464809384,1
+Vacuums Outlet,ubuy,895,0.131231672,2
+Vacuums Outlet,Dyson India,495,0.072580645,3
+Vacuums Outlet,Croma,480,0.070381232,4
+Vacuums Outlet,Flipkart,290,0.042521994,5
+Vacuums Outlet,Ankur Electricals,285,0.041788856,6
+Vacuums Outlet,1mg,270,0.039589443,7
+Vacuums Outlet,Instamart,200,0.029325513,8
+Vacuums Outlet,EMI Snapmint,95,0.013929619,9
+Vacuums Outlet,Neverowned India,95,0.013929619,10
+Vacuums Outlet,agarolifestyle.com,95,0.013929619,11
+Vacuums Outlet,Mobex,90,0.013196481,12
+Vacuums Outlet,Myntra,90,0.013196481,13
+Vacuums Outlet,New Variety Store,90,0.013196481,14
+Vacuums Outlet,Tata Neu,90,0.013196481,15
+Vacuums Outlet,bigbasket.com,90,0.013196481,16
+Voltage Stabilizers,amazon,1470,0.275797373,1
+Voltage Stabilizers,Unknown,660,0.123827392,2
+Voltage Stabilizers,Flipkart,575,0.107879925,3
+Voltage Stabilizers,Croma,460,0.08630394,4
+Voltage Stabilizers,Moglix,290,0.054409006,5
+Voltage Stabilizers,Vguard Official Website,260,0.048780488,6
+Voltage Stabilizers,Microtek,255,0.047842402,7
+Voltage Stabilizers,Aulten,200,0.037523452,8
+Voltage Stabilizers,Luminous,170,0.031894934,9
+Voltage Stabilizers,Bluebird,160,0.030018762,10
+Voltage Stabilizers,Rama Shoppee,100,0.018761726,11
+Voltage Stabilizers,Tradeindia.com,100,0.018761726,12
+Voltage Stabilizers,Voltas,100,0.018761726,13
+Voltage Stabilizers,Poorvika,95,0.01782364,14
+Voltage Stabilizers,Tata Neu,95,0.01782364,15
+Voltage Stabilizers,Vijay Sales,90,0.016885553,16
+Voltage Stabilizers,Daikcell,85,0.015947467,17
+Voltage Stabilizers,PEQVI,85,0.015947467,18
+Voltage Stabilizers,Reliance Digital,80,0.015009381,19
+Waffle Irons,amazon,1565,0.230316409,1
+Waffle Irons,ubuy,1280,0.188373804,2
+Waffle Irons,desertcart.in,580,0.08535688,3
+Waffle Irons,Myntra,475,0.069904341,4
+Waffle Irons,Electronio,300,0.04415011,5
+Waffle Irons,wafflepantry.com,270,0.039735099,6
+Waffle Irons,Flipkart,190,0.027961737,7
+Waffle Irons,Lifelong Online,190,0.027961737,8
+Waffle Irons,myborosil,190,0.027961737,9
+Waffle Irons,libraappliances.com,185,0.027225901,10
+Waffle Irons,Nykaa,180,0.026490066,11
+Waffle Irons,Deodap,100,0.014716703,12
+Waffle Irons,Lidl,100,0.014716703,13
+Waffle Irons,WIRED,100,0.014716703,14
+Waffle Irons,instacuppastore,100,0.014716703,15
+Waffle Irons,Crate and Barrel,95,0.013980868,16
+Waffle Irons,Desertcart,95,0.013980868,17
+Waffle Irons,Ekitchen,95,0.013980868,18
+Waffle Irons,TTK PrestigeLimited,95,0.013980868,19
+Waffle Irons,Wukusy,95,0.013980868,20
+Waffle Irons,Blinkit,90,0.013245033,21
+Waffle Irons,Meesho,90,0.013245033,22
+Waffle Irons,flipkart,90,0.013245033,23
+Waffle Irons,krupsusa.com,90,0.013245033,24
+Waffle Irons,JioMart,80,0.011773363,25
+Waffle Irons,desertcart,75,0.011037528,26
+Water Heaters,Croma,1260,0.138082192,1
+Water Heaters,Flipkart,1145,0.125479452,2
+Water Heaters,amazon,685,0.075068493,3
+Water Heaters,Ankur Electricals,490,0.05369863,4
+Water Heaters,Orient Electric,400,0.043835616,5
+Water Heaters,Hippo Homes,360,0.039452055,6
+Water Heaters,AJIO.com,300,0.032876712,7
+Water Heaters,etadviser.com,295,0.032328767,8
+Water Heaters,Electronio,290,0.031780822,9
+Water Heaters,Reliance Digital,290,0.031780822,10
+Water Heaters,Myntra,280,0.030684932,11
+Water Heaters,Tata Neu,275,0.030136986,12
+Water Heaters,Surya Solar and Waters,200,0.021917808,13
+Water Heaters,Moglix,195,0.021369863,14
+Water Heaters,BlackTree,190,0.020821918,15
+Water Heaters,Gadgets Now,185,0.020273973,16
+Water Heaters,Bajaj Electricals India,100,0.010958904,17
+Water Heaters,GlenIndia,100,0.010958904,18
+Water Heaters,James & Co,100,0.010958904,19
+Water Heaters,Meesho,100,0.010958904,20
+Water Heaters,Zepto,100,0.010958904,21
+Water Heaters,bhrumbhrum.in,100,0.010958904,22
+Water Heaters,buildingandinteriors.com,100,0.010958904,23
+Water Heaters,kamalsolar.com,100,0.010958904,24
+Water Heaters,livemint.com,100,0.010958904,25
+Water Heaters,online,100,0.010958904,26
+Water Heaters,vguard,100,0.010958904,27
+Water Heaters,India se online shopping,95,0.010410959,28
+Water Heaters,ShopClues.com,95,0.010410959,29
+Water Heaters,Voltas,95,0.010410959,30
+Water Heaters,Zebronics,95,0.010410959,31
+Water Heaters,naturepowersolar.com,95,0.010410959,32
+Water Heaters,venushomeappliances.com,95,0.010410959,33
+Water Heaters,Blinkit,90,0.009863014,34
+Water Heaters,New Variety Store,90,0.009863014,35
+Water Heaters,Tradeindia.com,90,0.009863014,36
+Water Heaters,safewaterfilter.in,90,0.009863014,37
+Water Heaters,solahart.co.in,90,0.009863014,38
+Water Heaters,heatech.in,85,0.009315068,39
+Water Heaters,hykonindia.com,80,0.008767123,40
+Water Purifier Accessories,amazon,1775,0.273287144,1
+Water Purifier Accessories,filterkart.com,395,0.060816012,2
+Water Purifier Accessories,Flipkart,390,0.060046189,3
+Water Purifier Accessories,kitchenmart.co.in,385,0.059276366,4
+Water Purifier Accessories,cuckooindia.in,370,0.056966898,5
+Water Purifier Accessories,OWEG,360,0.055427252,6
+Water Purifier Accessories,Aqua Ultra,300,0.046189376,7
+Water Purifier Accessories,Eureka,290,0.044649731,8
+Water Purifier Accessories,JioMart Electronics,200,0.030792918,9
+Water Purifier Accessories,Meesho,200,0.030792918,10
+Water Purifier Accessories,apnidukaan.com,200,0.030792918,11
+Water Purifier Accessories,Croma,190,0.029253272,12
+Water Purifier Accessories,justdial.com,170,0.02617398,13
+Water Purifier Accessories,In stock online,100,0.015396459,14
+Water Purifier Accessories,IndiaMART,100,0.015396459,15
+Water Purifier Accessories,Livpure,100,0.015396459,16
+Water Purifier Accessories,Micro Pure Systems,100,0.015396459,17
+Water Purifier Accessories,Raptor Supplies,100,0.015396459,18
+Water Purifier Accessories,RasoiShop,100,0.015396459,19
+Water Purifier Accessories,cayroshop.com,100,0.015396459,20
+Water Purifier Accessories,krglobals.com,100,0.015396459,21
+Water Purifier Accessories,livemint.com,100,0.015396459,22
+Water Purifier Accessories,desertcart.in,95,0.014626636,23
+Water Purifier Accessories,theriversoft.com,95,0.014626636,24
+Water Purifier Accessories,AquaSafe Water Solutions,90,0.013856813,25
+Water Purifier Accessories,ubuy,90,0.013856813,26
+Water Purifiers,amazon,1430,0.214714715,1
+Water Purifiers,Croma,1235,0.185435435,2
+Water Purifiers,Flipkart,1045,0.156906907,3
+Water Purifiers,Ankur Electricals,670,0.100600601,4
+Water Purifiers,Eureka,475,0.071321321,5
+Water Purifiers,Vijay Sales,290,0.043543544,6
+Water Purifiers,Pureit Water,190,0.028528529,7
+Water Purifiers,Tata Neu,190,0.028528529,8
+Water Purifiers,Tradeindia.com,190,0.028528529,9
+Water Purifiers,livemint.com,185,0.027777778,10
+Water Purifiers,EMI Snapmint,180,0.027027027,11
+Water Purifiers,Faber India,100,0.015015015,12
+Water Purifiers,Havells,100,0.015015015,13
+Water Purifiers,Kent RO Systems,100,0.015015015,14
+Water Purifiers,Neverowned India,95,0.014264264,15
+Water Purifiers,aquafresh.company,95,0.014264264,16
+Water Purifiers,liwaspring.com,90,0.013513514,17
+Weather Stations,amazon,585,0.163865546,1
+Weather Stations,amiciKart,385,0.107843137,2
+Weather Stations,desertcart.in,365,0.102240896,3
+Weather Stations,Elcytec,300,0.084033613,4
+Weather Stations,K&F Concept,200,0.056022409,5
+Weather Stations,Prana Air,200,0.056022409,6
+Weather Stations,Flipkart,190,0.053221289,7
+Weather Stations,Mac Addict,190,0.053221289,8
+Weather Stations,ubuy,185,0.051820728,9
+Weather Stations,Banggood.com,100,0.028011204,10
+Weather Stations,IndustryBuying,100,0.028011204,11
+Weather Stations,Robocraze,100,0.028011204,12
+Weather Stations,Singer India,100,0.028011204,13
+Weather Stations,breatheeasylabs.com,100,0.028011204,14
+Weather Stations,scispectrum.in,100,0.028011204,15
+Weather Stations,Adroidex,95,0.026610644,16
+Weather Stations,thinkrobotics.com,95,0.026610644,17
+Weather Stations,Lotus Electronics,90,0.025210084,18
+Weather Stations,Robu.in,90,0.025210084,19
